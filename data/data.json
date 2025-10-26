@@ -1,6 +1,34 @@
 {
   "series": [
     {
+      "title": "Webtoon Character Na Kang Lim",
+      "slug": "webtoon-character-na-kang-lim",
+      "type": "Manhwa",
+      "format": "Webtoon",
+      "status": "Completed",
+      "description": "Na Kang-Lim, seorang siswa SMA yang biasanya menikmati webtoon. Suatu hari, mengalami hal yang aneh, seorang protagonis wanita dari webtoon yang biasa dia baca muncul di hadapannya. Kejadian-kejadian dalam webtoon tersebut membuatnya mengalami krisis, tetapi masalahnya adalah tidak ada protagonis",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "School",
+        "Shounen"
+      ],
+      "tags": [],
+      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9m75jYtufl5ZlNxdx9rXGzhPwZVHb0nRhBLEMFOwlh6YWX8lEgQtRjdTb2g34N0SofOwIl_g-1o5GSMI6O1nmjcgD8DVJVRl1cHcJSY29AHtYAq1oBmfofTCaV6yaVG319hz-02MTOI-eAja4nXnqtlJhctTYorwG07UuBVUrN17zkVUcix2VfcJ_XLIN/s1600/Webtoon-Character-Na-Kang-Lim_waifu2x_art_scan_noise3_scale.png",
+      "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9m75jYtufl5ZlNxdx9rXGzhPwZVHb0nRhBLEMFOwlh6YWX8lEgQtRjdTb2g34N0SofOwIl_g-1o5GSMI6O1nmjcgD8DVJVRl1cHcJSY29AHtYAq1oBmfofTCaV6yaVG319hz-02MTOI-eAja4nXnqtlJhctTYorwG07UuBVUrN17zkVUcix2VfcJ_XLIN/s1600/Webtoon-Character-Na-Kang-Lim_waifu2x_art_scan_noise3_scale.png",
+      "rating": 8.8,
+      "views": 580,
+      "bookmarks": 79,
+      "year": 2017,
+      "author": "조준우 (Jo Junwoo)",
+      "artist": "Naver Webtoon",
+      "chapters": [],
+      "createdAt": "2025-10-26T18:11:26.143Z",
+      "updatedAt": "2025-10-26T18:14:42.199Z"
+    },
+    {
       "title": "Surviving in a Romance Fantasy Novel",
       "slug": "surviving-in-a-romance-fantasy-novel",
       "type": "Manhwa",
