@@ -1,6 +1,35 @@
 {
   "series": [
     {
+      "title": "Honkai Impact - Divine Key",
+      "slug": "honkai-impact-divine-key",
+      "type": "Manhua",
+      "format": "Comic",
+      "status": "Ongoing",
+      "description": "Lima puluh ribu tahun yang lalu, para pendahulu era terakhir membangun peradaban maju. Untuk menangkis Herrschers, mereka menciptakan Divine Keys, senjata yang dapat melawan Honkai demi masa depan dunia, dengan meneliti sisa-sisa Herrscher Cores.",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Fantasy",
+        "Shounen"
+      ],
+      "tags": [
+        "Hoyoverse"
+      ],
+      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicWvIcy_uNxWrBJ3jG9yAB0Af_HK8VYAJ0OyJY-zeF7KIyoSKx0lg-nIHpyduBu8HgAzUkOtlBwV4lWIy855jEQSlJUckd4VrQWyWCgVqHLMV6S-o7beqbN_0AKjcqpAYrMXf3JvzpijOCNyiwxzmDh9AyP9ADmcgB2BHLhtYkoPOwQCIr0KSqGJ99jD8u/s1600/cvr.jpg",
+      "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicWvIcy_uNxWrBJ3jG9yAB0Af_HK8VYAJ0OyJY-zeF7KIyoSKx0lg-nIHpyduBu8HgAzUkOtlBwV4lWIy855jEQSlJUckd4VrQWyWCgVqHLMV6S-o7beqbN_0AKjcqpAYrMXf3JvzpijOCNyiwxzmDh9AyP9ADmcgB2BHLhtYkoPOwQCIr0KSqGJ99jD8u/s1600/cvr.jpg",
+      "rating": 6.9,
+      "views": 200000000000000,
+      "bookmarks": 0,
+      "year": 2020,
+      "author": "",
+      "artist": "MihoYo",
+      "chapters": [],
+      "createdAt": "2025-10-27T08:23:08.085Z",
+      "updatedAt": "2025-10-27T08:32:32.470Z"
+    },
+    {
       "title": "Honkai Impact - Second Eruption",
       "slug": "h",
       "type": "Manhua",
