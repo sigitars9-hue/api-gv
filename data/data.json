@@ -1,6 +1,32 @@
 {
   "series": [
     {
+      "title": "Job Change Log",
+      "slug": "job-change-log",
+      "type": "Manhwa",
+      "format": "Webtoon",
+      "status": "Ongoing",
+      "description": "Cerita ini mengikuti perjalanan seorang pria yang secara tak terduga harus menghadapi perubahan besar dalam hidupnya ketika ia secara misterius mendapat kesempatan untuk mengganti pekerjaannya dengan kemampuan khusus. Dengan berbagai tantangan baru yang muncul di setiap pekerjaan, ia belajar untuk menyesuaikan diri dan menemukan tujuan hidupnya yang sebenarnya. Dalam proses tersebut, dia tidak hanya bertumbuh secara profesional tetapi juga secara pribadi, membangun hubungan dengan rekan-rekan baru dan menghadapi konflik yang menguji keteguhan hatinya. Perjalanan ini membawanya ke berbagai tempat dengan pengalaman yang berharga, menunjukkan pentingnya fleksibilitas dan keberanian untuk berubah dalam menghadapi masa depan yang tidak pasti.",
+      "genres": [
+        "Slice of Life",
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "tags": [],
+      "cover": "https://thumbnail.komiku.org/img/upload/job_change_log/img_68318ea584cf85.78586860.png?w=500",
+      "backdrop": "https://thumbnail.komiku.org/img/upload/job_change_log/img_68318ea584cf85.78586860.png?w=500",
+      "rating": 9,
+      "views": 1300000,
+      "bookmarks": 4421,
+      "year": 2020,
+      "author": "Kim Soo Hyun",
+      "artist": "",
+      "chapters": [],
+      "createdAt": "2025-11-05T06:44:57.266Z",
+      "updatedAt": "2025-11-05T06:56:12.706Z"
+    },
+    {
       "title": "Honkai Impact - Divine Key",
       "slug": "honkai-impact-divine-key",
       "type": "Manhua",
