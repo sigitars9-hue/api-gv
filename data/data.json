@@ -1,6 +1,37 @@
 {
   "series": [
     {
+      "title": "Honkai Impact - World Serpent",
+      "slug": "honkai-impact-world-serpent",
+      "type": "Manhua",
+      "format": "Comic",
+      "status": "Completed",
+      "description": "One Shoot - Pengenalan World Serpent",
+      "genres": [
+        "Action",
+        "Historical",
+        "Sci-Fi",
+        "Tragedy",
+        "Supernatural",
+        "Psychological",
+        "Drama"
+      ],
+      "tags": [
+        "Honkai Impact"
+      ],
+      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRNxeNXUYOn7fdRm-HQk5WZpHhOY6vY70AvFn5Xk79KUYW-QpDebD6SvTajetEVUdlegFuN6NWPSXw9MYFf88fElMqH_AVAMrikB-kAukJOkJNLU5pYSy2CEiKhpUPMB1oUMPiavbU_sFfR0WadGuIO4oFxRHdgA1sKuqYEhRqnb4PaKk0oKbCpjPIjFnb/s1600/kebin%20cvr.jpg",
+      "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRNxeNXUYOn7fdRm-HQk5WZpHhOY6vY70AvFn5Xk79KUYW-QpDebD6SvTajetEVUdlegFuN6NWPSXw9MYFf88fElMqH_AVAMrikB-kAukJOkJNLU5pYSy2CEiKhpUPMB1oUMPiavbU_sFfR0WadGuIO4oFxRHdgA1sKuqYEhRqnb4PaKk0oKbCpjPIjFnb/s1600/kebin%20cvr.jpg",
+      "rating": 7.2,
+      "views": 5843,
+      "bookmarks": 345,
+      "year": 2020,
+      "author": "MihoYo",
+      "artist": "",
+      "chapters": [],
+      "createdAt": "2025-11-10T10:20:55.280Z",
+      "updatedAt": "2025-11-10T10:23:47.898Z"
+    },
+    {
       "title": "Honkai Impact - Elan Palatinus",
       "slug": "honkaiimpactelanpalatinus",
       "type": "Manhwa",
