@@ -20,7 +20,7 @@
       "cover": "https://i.ibb.co.com/84RS63BB/img-68d82c5ba696d2-73362409.jpg",
       "backdrop": "https://i.ibb.co.com/84RS63BB/img-68d82c5ba696d2-73362409.jpg",
       "rating": 8.7,
-      "views": 6756,
+      "views": 6757,
       "bookmarks": 876,
       "year": 2025,
       "author": "Nazzfolie",
@@ -2667,22 +2667,6 @@
       ],
       "createdAt": "2025-10-26T17:52:54.278Z",
       "updatedAt": "2025-11-10T10:42:11.702Z"
-      }
-  ],
-  "announcements": [
-    {
-      "id": 1,
-      "title": "Maintenance Server GV Comics",
-      "content": "Halo semua, besok GV Comics akan maintenance jam 01.00–03.00 WIB.",
-      "createdAt": "2025-11-22",
-      "avatar": "https://i.ibb.co/ZR4g84zj/yuracry.png"
-    },
-    {
-      "id": 2,
-      "title": "Penambahan Fitur Baru",
-      "content": "Kami menambahkan fitur bookmark dan riwayat baca pada GV Comics.",
-      "createdAt": "2025-11-20",
-      "avatar": ""
     }
   ]
 }
