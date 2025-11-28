@@ -1,6 +1,37 @@
 {
   "series": [
     {
+      "title": "HOPE",
+      "slug": "hope",
+      "type": "Manga",
+      "format": "Light Novel",
+      "status": "Ongoing",
+      "description": "Di antara kobaran api yang mengamuk dan reruntuhan malam yang memerah, seorang laki-laki terjebak dalam mimpi buruk yang begitu nyata: berusaha menyelamatkan seorang perempuan—Yura, adik yang amat ia cintai. Sosok Yura berdiri terpaku di tengah api, tubuhnya bergetar, mata kosong seolah jiwanya telah tercerabut. Teriakannya disamarkan oleh raungan api yang menelan seluruh dunia.\n\nDengan seluruh tenaga yang tersisa, sang kakak berlari menghampiri, namun setiap langkah terasa seperti melawan kehancuran itu sendiri. Ketika ia nyaris meraih tangan Yura, lantai rapuh di bawah mereka runtuh, menjatuhkan keduanya ke dalam kegelapan tak berujung. Dalam jatuh bebas itu, ia melihat wajah Yura semakin memudar—tangannya luput, suaranya melemah, dan keputusasaan menyayat kewarasannya.\n\nDi titik paling gelap, ia mendengar gumaman terakhir Yura. Kesadaran pun mulai hilang bersamaan dengan harapan terakhirnya. Ia jatuh semakin dalam, tenggelam dalam kehampaan yang dingin… tanpa adik yang selalu ia lindungi. Yang tersisa hanyalah kegelapan—dan kehilangan yang menghancurkan segalanya.",
+      "genres": [
+        "Action",
+        "Adaptation",
+        "Drama",
+        "Fantasy",
+        "Magic",
+        "Supernatural",
+        "Supranatural",
+        "Tragedy",
+        "Shounen"
+      ],
+      "tags": [],
+      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhacKCaWx5CFuO-DEoK5sNwW-MR7EZnfrDbEXOT7FjTMnVOPEqI1ndKiiaoMpB88ySQyMJh32nt9tS0AecJkZwktYsFbBhVshUx9q920zqJB7UncM9x9nKfnwCG2kdj6W8lMpE5zpqdgpB45Nee_Rpfd8XwJ-A8GRGkAI1isneHZXQZmfsvoXHzj83h1Hoa/s1600/WhatsApp%20Image%202025-11-28%20at%2018.44.36.jpeg",
+      "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhacKCaWx5CFuO-DEoK5sNwW-MR7EZnfrDbEXOT7FjTMnVOPEqI1ndKiiaoMpB88ySQyMJh32nt9tS0AecJkZwktYsFbBhVshUx9q920zqJB7UncM9x9nKfnwCG2kdj6W8lMpE5zpqdgpB45Nee_Rpfd8XwJ-A8GRGkAI1isneHZXQZmfsvoXHzj83h1Hoa/s1600/WhatsApp%20Image%202025-11-28%20at%2018.44.36.jpeg",
+      "rating": 10,
+      "views": 32102,
+      "bookmarks": 231,
+      "year": 2025,
+      "author": "Rizz",
+      "artist": "Gachaverse.id",
+      "chapters": [],
+      "createdAt": "2025-11-28T10:29:45.486Z",
+      "updatedAt": "2025-11-28T11:50:56.571Z"
+    },
+    {
       "title": "aku dan 4 beban tim",
       "slug": "aku-dan-4-beban-tim",
       "type": "Manga",
