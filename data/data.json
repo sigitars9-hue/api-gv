@@ -1,6 +1,38 @@
 {
   "series": [
     {
+      "title": "Honkai Impact - Elan Palatinus",
+      "slug": "honkai-impact-elan-palatinus",
+      "type": "Manhua",
+      "format": "Comic",
+      "status": "Completed",
+      "description": "Pada Tahun Tuhan kita 1470, Schicksal mengumpulkan para pangeran Eropa dan melancarkan Perang Salib untuk menaklukkan Timur Jauh, hanya untuk dikalahkan oleh seorang pejuang abadi. Kallen Kaslana, seorang prajurit Valkyrie yang kuat, harus membuat pilihan antara cinta dan sumpahnya",
+      "genres": [
+        "Action",
+        "Seinen",
+        "Drama",
+        "Game",
+        "Sci-fi",
+        "Supernatural",
+        "Mecha",
+        "Martial Arts"
+      ],
+      "tags": [
+        "Superpower"
+      ],
+      "cover": "https://blogger.googleusercontent.com/img/a/AVvXsEhOHRUGssg--Eb8JY_HnRy5HG9pumn8D3ZhgA320-zkHebtD30aQQIw6FW-7LyBlDbTThjgBE463WXKLt_w0-5xQ0kJoLEsqBMmJDYFhczHvhChPW3cvqF_fm9jkd---Rfvy9kFhi0EKwqt1GtzDR-sRlgh9G_tDNbv0LmpQocwEXG_4PYEjpEZBEQh",
+      "backdrop": "https://blogger.googleusercontent.com/img/a/AVvXsEhOHRUGssg--Eb8JY_HnRy5HG9pumn8D3ZhgA320-zkHebtD30aQQIw6FW-7LyBlDbTThjgBE463WXKLt_w0-5xQ0kJoLEsqBMmJDYFhczHvhChPW3cvqF_fm9jkd---Rfvy9kFhi0EKwqt1GtzDR-sRlgh9G_tDNbv0LmpQocwEXG_4PYEjpEZBEQh",
+      "rating": 7.9,
+      "views": 867,
+      "bookmarks": 48,
+      "year": 2117,
+      "author": "MihoYo",
+      "artist": "",
+      "chapters": [],
+      "createdAt": "2025-12-10T05:44:08.695Z",
+      "updatedAt": "2025-12-10T05:51:59.114Z"
+    },
+    {
       "title": "HOPE",
       "slug": "hope",
       "type": "Manga",
