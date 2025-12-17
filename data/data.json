@@ -1,6 +1,32 @@
 {
   "series": [
     {
+      "title": "Mia Has Returned",
+      "slug": "mia-has-returned",
+      "type": "Manhwa",
+      "format": "Webtoon",
+      "status": "Ongoing",
+      "description": "Mia tiba-tiba kembali ke kota asalnya setelah bertahun-tahun menghilang tanpa kabar. Kehadirannya membawa berbagai cerita dan menimbulkan banyak pertanyaan, terutama mengenai alasan di balik kepergiannya yang mendadak. Di tengah dinamika sosial dan hubungan masa lalu yang rumit, Mia berusaha mencari jalan untuk menyatukan kembali masa lalu dan masa kini. Selama perjalanannya, Mia harus menghadapi berbagai tantangan emosional dan konflik dengan orang-orang di sekitarnya. Cerita ini menggambarkan perjuangan Mia dalam mengatasi trauma dan membangun kembali kepercayaan, sekaligus menemukan jati dirinya yang sebenarnya di tengah perubahan yang terjadi selama waktu dia pergi.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "tags": [],
+      "cover": "https://i.ibb.co.com/DcHX4kq/img-68bff938142860-14470754.png",
+      "backdrop": "https://i.ibb.co.com/DcHX4kq/img-68bff938142860-14470754.png",
+      "rating": 7.98,
+      "views": 344562,
+      "bookmarks": 3424,
+      "year": null,
+      "author": "Hwang Do-Cheol",
+      "artist": "",
+      "chapters": [],
+      "createdAt": "2025-12-17T17:40:03.316Z",
+      "updatedAt": "2025-12-17T17:42:33.862Z"
+    },
+    {
       "title": "HOPE",
       "slug": "hope",
       "type": "Manga",
