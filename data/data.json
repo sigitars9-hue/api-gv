@@ -1,6 +1,35 @@
 {
   "series": [
     {
+      "title": "Eleceed",
+      "slug": "eleceed",
+      "type": "Manhwa",
+      "format": "Webtoon",
+      "status": "Ongoing",
+      "description": "Manhwa Eleceed yang dibuat oleh komikus bernama Son Jae-Ho ini bercerita tentang Kaiden: Pengguna kemampuan misterius yang bersembunyi di dalam tubuh kucing jalanan. Dia kemudian dijemput oleh Jiwoo setelah terluka setelah bertengkar dengan pengguna kemampuan lain. Dia memiliki kepribadian yang keras kepala dan suka memerintah. Jiwoo: seorang siswa SMA yang energik dan banyak bicara yang menyukai kucing. Dia sangat baik dan sepertinya memiliki kemampuan khusus.",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Action",
+        "Fantasy",
+        "School Life",
+        "Shounen",
+        "Supranatural"
+      ],
+      "tags": [],
+      "cover": "https://i.ibb.co.com/Q3wrqH6L/Komik-Eleceed-219x319.jpg",
+      "backdrop": "https://i.ibb.co.com/Q3wrqH6L/Komik-Eleceed-219x319.jpg",
+      "rating": 8.9,
+      "views": 67000,
+      "bookmarks": 69,
+      "year": null,
+      "author": "Son Jae-Ho",
+      "artist": "Zhena",
+      "chapters": [],
+      "createdAt": "2025-12-20T06:12:35.657Z",
+      "updatedAt": "2025-12-20T06:17:08.625Z"
+    },
+    {
       "title": "Trapped at Home With the Male Leads",
       "slug": "trapped-at-home-with-the-male-leads-jujuchan-trapped-at-home-with-the-male-leads-jujuchan",
       "type": "Manhwa",
