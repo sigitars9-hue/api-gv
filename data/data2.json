@@ -1,1 +1,34 @@
-
+{
+  "series": [
+    {
+      "title": "anuan",
+      "slug": "anuan",
+      "type": "Manhwa",
+      "format": "Comic",
+      "status": "Ongoing",
+      "description": "dfsfsdggddsgsdsdgsdgsd",
+      "genres": [
+        "Martial Arts",
+        "School Life",
+        "Shoujo",
+        "Action",
+        "Medical",
+        "Revenge"
+      ],
+      "tags": [
+        "sadsa"
+      ],
+      "cover": "https://i.ibb.co.com/ns2x0HBG/2875961-19-part1.jpg",
+      "backdrop": "https://i.ibb.co.com/ns2x0HBG/2875961-19-part1.jpg",
+      "rating": 2421,
+      "views": 124114242421421,
+      "bookmarks": 14212412142,
+      "year": 2023,
+      "author": "dfd",
+      "artist": "sfdsfd",
+      "chapters": [],
+      "createdAt": "2025-12-23T02:53:00.757Z",
+      "updatedAt": "2025-12-23T03:08:06.141Z"
+    }
+  ]
+}
