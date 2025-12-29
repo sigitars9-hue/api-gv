@@ -21,9 +21,51 @@
       "year": null,
       "author": "S-Nanyc",
       "artist": "",
-      "chapters": [],
+      "chapters": [
+        {
+          "id": "insanely-talented-player-001",
+          "number": 1,
+          "title": "Chapter 1",
+          "pages": [
+            "https://i.ibb.co.com/rGw69YFZ/000dc.jpg",
+            "https://i.ibb.co.com/pBf39nvV/001-001.jpg",
+            "https://i.ibb.co.com/r24407ZX/001-002.jpg",
+            "https://i.ibb.co.com/35GnCRBy/002-001.jpg",
+            "https://i.ibb.co.com/TB6mFLD4/002-002.jpg",
+            "https://i.ibb.co.com/8CMTDC0/003-001.jpg",
+            "https://i.ibb.co.com/jZrHdJBQ/003-002.jpg",
+            "https://i.ibb.co.com/sSYBKxz/004-001.jpg",
+            "https://i.ibb.co.com/KpPLnggp/004-002.jpg",
+            "https://i.ibb.co.com/qM7G1ZJr/005-001.jpg",
+            "https://i.ibb.co.com/PscCGyVR/005-002.jpg",
+            "https://i.ibb.co.com/4wLrd3Fw/006-001.jpg",
+            "https://i.ibb.co.com/8LRsPMbY/006-002.jpg",
+            "https://i.ibb.co.com/ZRkgDvcN/007-001.jpg",
+            "https://i.ibb.co.com/HLLCTrkW/007-002.jpg",
+            "https://i.ibb.co.com/mV0wbvFG/008-001.jpg",
+            "https://i.ibb.co.com/b5kp8VGK/008-002.jpg",
+            "https://i.ibb.co.com/VpbwH35q/009-001.jpg",
+            "https://i.ibb.co.com/j9qH4JYq/009-002.jpg",
+            "https://i.ibb.co.com/Z17PjvsR/010-001.jpg",
+            "https://i.ibb.co.com/ynF9M99x/010-002.jpg",
+            "https://i.ibb.co.com/dsFMtQz3/011-001.jpg",
+            "https://i.ibb.co.com/qYnkRH6N/011-002.jpg",
+            "https://i.ibb.co.com/QvwyB5PH/012-001.jpg",
+            "https://i.ibb.co.com/9k2Vqvy5/012-002.jpg",
+            "https://i.ibb.co.com/27T1bmJQ/013-001.jpg",
+            "https://i.ibb.co.com/Fb6Vd7K1/013-002.jpg",
+            "https://i.ibb.co.com/3mD0JCY6/014-001.jpg",
+            "https://i.ibb.co.com/jvddfVXK/014-002.jpg",
+            "https://i.ibb.co.com/v4Z68w38/015-001.jpg",
+            "https://i.ibb.co.com/HfktpKq9/015-002.jpg",
+            "https://i.ibb.co.com/392Zm98t/999.jpg"
+          ],
+          "thumbnail": "https://i.ibb.co.com/rGw69YFZ/000dc.jpg",
+          "publishedAt": "2025-12-29T01:59:00.000Z"
+        }
+      ],
       "createdAt": "2025-12-29T08:59:42.067Z",
-      "updatedAt": "2025-12-29T09:12:45.424Z"
+      "updatedAt": "2025-12-29T09:27:08.493Z"
     },
     {
       "title": "I Became The Patron Of Villains",
