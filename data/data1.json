@@ -186,10 +186,12 @@
         "https://i.ibb.co.com/VYv8KMdj/141.webp",
         "https://i.ibb.co.com/wrszKJSm/142.webp"
       ],
-      "type": "comic",
-      "bucket": "data1",
-      "id": "wew-1"
+          "thumbnail": "https://i.ibb.co.com/b5fhDz2D/129.webp",
+          "publishedAt": "2025-11-04T23:44:00.000Z"
+        }
+      ],
+      "createdAt": "2025-11-05T06:44:57.266Z",
+      "updatedAt": "2025-11-05T07:26:08.369Z"
     }
-  },
-  "announcements": []
+  ]
 }
