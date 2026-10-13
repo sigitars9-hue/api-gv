@@ -1,28 +1,5 @@
 {
-  "series": [
-    {
-      "title": "Anu",
-      "slug": "anu",
-      "type": "Manhwa",
-      "format": "Webtoon",
-      "status": "Ongoing",
-      "description": "Ghahahavavsvsv",
-      "genres": [
-        "Demons",
-        "Adventure",
-        "Adult",
-        "Crime"
-      ],
-      "tags": [],
-      "cover": "https://i.ibb.co.com/1J6CgvBM/1791860598256.jpg",
-      "backdrop": "https://i.ibb.co.com/Y7rFFxH7/1791889632651.jpg",
-      "rating": 5454,
-      "views": 8494949,
-      "chapters": [],
-      "createdAt": "2026-10-13T12:09:43.384Z",
-      "updatedAt": "2026-10-13T12:09:43.384Z"
-    }
-  ],
+  "series": [],
   "chapters": {},
   "announcements": []
 }
