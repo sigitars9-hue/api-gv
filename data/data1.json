@@ -6242,10 +6242,11 @@
         "Demon",
         "Fantasy",
         "Regression",
-        "Action"
+        "Action",
+        "Magic"
       ],
       "tags": [],
-      "cover": "https://i.ibb.co.com/C3tQYkJv/img-692d66c9bbdd06-08528109.jpg",
+      "cover": "https://i.ibb.co.com/1J6CgvBM/1791860598256.jpg",
       "backdrop": "https://i.ibb.co.com/C3tQYkJv/img-692d66c9bbdd06-08528109.jpg",
       "rating": 8.7,
       "views": 1244766,
@@ -7279,7 +7280,7 @@
         }
       ],
       "createdAt": "2025-12-24T01:06:44.647Z",
-      "updatedAt": "2025-12-24T01:37:09.249Z"
+      "updatedAt": "2026-10-13T09:19:58.344Z"
     },
     {
       "title": "Jinsei Gyakuten Uwaki sare, Enzai wo Kiserareta Ore ga, Gakuen Ichi no Bishoujo ni Natsuka reru",
@@ -12095,5 +12096,7 @@
       "createdAt": "2025-11-05T06:44:57.266Z",
       "updatedAt": "2025-11-05T07:26:08.369Z"
     }
-  ]
+  ],
+  "chapters": {},
+  "announcements": []
 }
