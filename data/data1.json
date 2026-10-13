@@ -12278,10 +12278,24 @@
           "type": "comic",
           "bucket": "data1",
           "id": "world-extinction-war-1"
+        },
+        {
+          "number": 2,
+          "title": "Chapter 2",
+          "publishedAt": "2026-10-13T03:09:00.000Z",
+          "thumbnail": "https://i.ibb.co.com/fdx1d99S/36-part1.webp",
+          "pages": [
+            "https://i.ibb.co.com/fdx1d99S/36-part1.webp",
+            "https://i.ibb.co.com/TxWmkJkd/36-part2.webp",
+            "https://i.ibb.co.com/TBZm5LBT/36-part3.webp"
+          ],
+          "type": "comic",
+          "bucket": "data1",
+          "id": "world-extinction-war-2"
         }
       ],
       "createdAt": "2026-10-13T09:36:51.434Z",
-      "updatedAt": "2026-10-13T10:36:46.968Z"
+      "updatedAt": "2026-10-13T10:39:33.495Z"
     }
   ],
   "chapters": {
@@ -12437,6 +12451,20 @@
       "type": "comic",
       "bucket": "data1",
       "id": "world-extinction-war-1"
+    },
+    "world-extinction-war-2": {
+      "number": 2,
+      "title": "Chapter 2",
+      "publishedAt": "2026-10-13T03:09:00.000Z",
+      "thumbnail": "https://i.ibb.co.com/fdx1d99S/36-part1.webp",
+      "pages": [
+        "https://i.ibb.co.com/fdx1d99S/36-part1.webp",
+        "https://i.ibb.co.com/TxWmkJkd/36-part2.webp",
+        "https://i.ibb.co.com/TBZm5LBT/36-part3.webp"
+      ],
+      "type": "comic",
+      "bucket": "data1",
+      "id": "world-extinction-war-2"
     }
   },
   "announcements": []
