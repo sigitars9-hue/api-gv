@@ -3412,9 +3412,45 @@
       "backdrop": "https://i.ibb.co/gFLfWSkZ/kd73dw4v6vlb1.jpg",
       "rating": 9.7,
       "views": 516456,
-      "chapters": [],
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Chapter 1",
+          "publishedAt": "2026-10-14T04:16:00.000Z",
+          "thumbnail": "https://i.ibb.co/wZt5dzPM/6-a952ae95403b.jpg",
+          "pages": [
+            "https://i.ibb.co/tpWjDQZX/1-93d46b7a1234.jpg",
+            "https://i.ibb.co/7dMLhDSv/2-5cbdd8cd680d.jpg",
+            "https://i.ibb.co/KxXKnsSg/3-9dbe4730d37d.jpg",
+            "https://i.ibb.co/dsjQN1Dq/4-ac72fe8ab9fc.jpg",
+            "https://i.ibb.co/gMWkS3kx/5-30e9927346ad.jpg",
+            "https://i.ibb.co/wZt5dzPM/6-a952ae95403b.jpg",
+            "https://i.ibb.co/WN9yw46Q/7-b35d426b0f3c.jpg",
+            "https://i.ibb.co/WN4gMDLt/8-ce3eadc4062c.jpg",
+            "https://i.ibb.co/mVRc7DBM/9-49ee1c8cee42.jpg",
+            "https://i.ibb.co/LyZVDpT/10-2557754d3362.jpg",
+            "https://i.ibb.co/KjjJjbwg/11-81ffcae8b5a0.jpg",
+            "https://i.ibb.co/rfN1Y1J3/12-a326198efb4c.jpg",
+            "https://i.ibb.co/yFK3fnmv/13-7afa7b2464c5.jpg",
+            "https://i.ibb.co/PzYt0KXk/14-2581280a91d7.jpg",
+            "https://i.ibb.co/gMSX6V57/15-aa7fbbcf6f9d.jpg",
+            "https://i.ibb.co/pBp8n66c/16-30ef465bca2f.jpg",
+            "https://i.ibb.co/fVthHRJ3/17-756616cf7373.jpg",
+            "https://i.ibb.co/TBXZwKw7/18-09fff050af95.jpg",
+            "https://i.ibb.co/hJf6CpPK/19-cc71ae520de3.jpg",
+            "https://i.ibb.co/9kjcCr2H/20-e1306db01d90.jpg",
+            "https://i.ibb.co/tFJHBgF/21-ffff57b9df75.jpg",
+            "https://i.ibb.co/4nN5PkYL/22-ecee7adf178e.jpg",
+            "https://i.ibb.co/wNkmnHKd/23-2ff248b178f8.jpg",
+            "https://i.ibb.co/R4BRfWY9/24-ae407bf793ba.jpg"
+          ],
+          "type": "comic",
+          "bucket": "data2",
+          "id": "swordmaster-youngest-son-1"
+        }
+      ],
       "createdAt": "2026-10-14T13:08:02.328Z",
-      "updatedAt": "2026-10-14T13:08:02.328Z"
+      "updatedAt": "2026-10-14T13:22:07.946Z"
     },
     {
       "title": "Maryoku Zero no Saikyou Kenja ~Mahou Riron o Kiwametara, Sekai Saikyou ni Natte Ita~",
@@ -4219,6 +4255,41 @@
       "type": "comic",
       "bucket": "data2",
       "id": "i-married-the-dragon-i-killed-1"
+    },
+    "swordmaster-youngest-son-1": {
+      "number": 1,
+      "title": "Chapter 1",
+      "publishedAt": "2026-10-14T04:16:00.000Z",
+      "thumbnail": "https://i.ibb.co/wZt5dzPM/6-a952ae95403b.jpg",
+      "pages": [
+        "https://i.ibb.co/tpWjDQZX/1-93d46b7a1234.jpg",
+        "https://i.ibb.co/7dMLhDSv/2-5cbdd8cd680d.jpg",
+        "https://i.ibb.co/KxXKnsSg/3-9dbe4730d37d.jpg",
+        "https://i.ibb.co/dsjQN1Dq/4-ac72fe8ab9fc.jpg",
+        "https://i.ibb.co/gMWkS3kx/5-30e9927346ad.jpg",
+        "https://i.ibb.co/wZt5dzPM/6-a952ae95403b.jpg",
+        "https://i.ibb.co/WN9yw46Q/7-b35d426b0f3c.jpg",
+        "https://i.ibb.co/WN4gMDLt/8-ce3eadc4062c.jpg",
+        "https://i.ibb.co/mVRc7DBM/9-49ee1c8cee42.jpg",
+        "https://i.ibb.co/LyZVDpT/10-2557754d3362.jpg",
+        "https://i.ibb.co/KjjJjbwg/11-81ffcae8b5a0.jpg",
+        "https://i.ibb.co/rfN1Y1J3/12-a326198efb4c.jpg",
+        "https://i.ibb.co/yFK3fnmv/13-7afa7b2464c5.jpg",
+        "https://i.ibb.co/PzYt0KXk/14-2581280a91d7.jpg",
+        "https://i.ibb.co/gMSX6V57/15-aa7fbbcf6f9d.jpg",
+        "https://i.ibb.co/pBp8n66c/16-30ef465bca2f.jpg",
+        "https://i.ibb.co/fVthHRJ3/17-756616cf7373.jpg",
+        "https://i.ibb.co/TBXZwKw7/18-09fff050af95.jpg",
+        "https://i.ibb.co/hJf6CpPK/19-cc71ae520de3.jpg",
+        "https://i.ibb.co/9kjcCr2H/20-e1306db01d90.jpg",
+        "https://i.ibb.co/tFJHBgF/21-ffff57b9df75.jpg",
+        "https://i.ibb.co/4nN5PkYL/22-ecee7adf178e.jpg",
+        "https://i.ibb.co/wNkmnHKd/23-2ff248b178f8.jpg",
+        "https://i.ibb.co/R4BRfWY9/24-ae407bf793ba.jpg"
+      ],
+      "type": "comic",
+      "bucket": "data2",
+      "id": "swordmaster-youngest-son-1"
     }
   },
   "announcements": []
