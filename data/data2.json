@@ -3600,9 +3600,47 @@
       "backdrop": "https://i.ibb.co/VYJcVFsC/4fanphhixhyg1.jpg",
       "rating": 9.2,
       "views": 5000,
-      "chapters": [],
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Chapter 1",
+          "publishedAt": "2026-10-14T06:17:00.000Z",
+          "thumbnail": "https://i.ibb.co/5WGp3p1t/fbeb04d5375426c7905e76cc7c7c37f3.jpg",
+          "pages": [
+            "https://i.ibb.co/Z1LP89Tc/64887a42768f23e8c714474cce282d23.jpg",
+            "https://i.ibb.co/PZfnKkvW/a94e32014d9dd6f4d5efa05ed0535868.jpg",
+            "https://i.ibb.co/j9sN2jJD/1ac9cfd12f5a7c4e51db343cd7498548.jpg",
+            "https://i.ibb.co/HLSyHJ0j/14f09bdaf5f0e0b9dad171f8fb056343.jpg",
+            "https://i.ibb.co/k6r99fr0/a725fd85d24f8191293fa4db8d59e491.jpg",
+            "https://i.ibb.co/ccswR2Lc/7b5ef1f801cf733aa50c5991d12f0700.jpg",
+            "https://i.ibb.co/bgW6sYFp/618a6fc225fa3fb8451df6f564cea1df.jpg",
+            "https://i.ibb.co/MydkvJRP/795f74e851da0ceb7d8829e63e10395e.jpg",
+            "https://i.ibb.co/dwrXwTdF/198dc6400dba2b7286ca9af683c695f8.jpg",
+            "https://i.ibb.co/QFk5v2cp/38770280b1f8cf706eda488cec3f7fdb.jpg",
+            "https://i.ibb.co/XrwC2DWN/7f4b3d1c77f5ab2fe7b5da98e17c7e31.jpg",
+            "https://i.ibb.co/nMGHMMbP/408292d0b834ca6d62d36d5c61b410e0.jpg",
+            "https://i.ibb.co/v4hmkwqr/59e83141ad08f45e8bde9b01a7baca36.jpg",
+            "https://i.ibb.co/hJc9QLp0/3ec2c7fb59191d4245d47ef003b45fed.jpg",
+            "https://i.ibb.co/K4TrsVg/46c3b7ed494328324f2c30051897badc.jpg",
+            "https://i.ibb.co/xtX8YBgR/74f85b597bf9eb3f0212db8e08b28242.jpg",
+            "https://i.ibb.co/L2qkyKr/d665f57aa3108b91288cd65fecec9f8e.jpg",
+            "https://i.ibb.co/rGBLpGdp/55032e614937a17805f907636190f052.jpg",
+            "https://i.ibb.co/1GG7mkRj/1762b0421418152da5b2d4d908536860.jpg",
+            "https://i.ibb.co/5WGp3p1t/fbeb04d5375426c7905e76cc7c7c37f3.jpg",
+            "https://i.ibb.co/tMCZfRQF/f514fad8dd57dd8f5507a3f39521f6b2.jpg",
+            "https://i.ibb.co/PGH84B0n/8be0438fa1b8890c4d397e32c1a7fa98.jpg",
+            "https://i.ibb.co/BHZ1GKsg/76708519f18656c48c331e003c55f97a.jpg",
+            "https://i.ibb.co/Cp5M9SnS/a7f8b948d0c91dd4cddbf2b5b1fc28db.jpg",
+            "https://i.ibb.co/99t2N8h2/bb7579baae175c97e5087781679cd1f9.jpg",
+            "https://i.ibb.co/N6grM1fH/5edfd829f5ec4ee8b92e62ef638f4cb9.jpg"
+          ],
+          "type": "comic",
+          "bucket": "data2",
+          "id": "heart-aching-1"
+        }
+      ],
       "createdAt": "2026-10-14T14:07:42.089Z",
-      "updatedAt": "2026-10-14T14:13:10.134Z"
+      "updatedAt": "2026-10-14T14:17:27.811Z"
     }
   ],
   "chapters": {
@@ -4517,6 +4555,43 @@
       "type": "comic",
       "bucket": "data2",
       "id": "maryoku-zero-no-saikyou-kenja-mahou-riron-o-kiwametara-sekai-saikyou-ni-natte-ita-2"
+    },
+    "heart-aching-1": {
+      "number": 1,
+      "title": "Chapter 1",
+      "publishedAt": "2026-10-14T06:17:00.000Z",
+      "thumbnail": "https://i.ibb.co/5WGp3p1t/fbeb04d5375426c7905e76cc7c7c37f3.jpg",
+      "pages": [
+        "https://i.ibb.co/Z1LP89Tc/64887a42768f23e8c714474cce282d23.jpg",
+        "https://i.ibb.co/PZfnKkvW/a94e32014d9dd6f4d5efa05ed0535868.jpg",
+        "https://i.ibb.co/j9sN2jJD/1ac9cfd12f5a7c4e51db343cd7498548.jpg",
+        "https://i.ibb.co/HLSyHJ0j/14f09bdaf5f0e0b9dad171f8fb056343.jpg",
+        "https://i.ibb.co/k6r99fr0/a725fd85d24f8191293fa4db8d59e491.jpg",
+        "https://i.ibb.co/ccswR2Lc/7b5ef1f801cf733aa50c5991d12f0700.jpg",
+        "https://i.ibb.co/bgW6sYFp/618a6fc225fa3fb8451df6f564cea1df.jpg",
+        "https://i.ibb.co/MydkvJRP/795f74e851da0ceb7d8829e63e10395e.jpg",
+        "https://i.ibb.co/dwrXwTdF/198dc6400dba2b7286ca9af683c695f8.jpg",
+        "https://i.ibb.co/QFk5v2cp/38770280b1f8cf706eda488cec3f7fdb.jpg",
+        "https://i.ibb.co/XrwC2DWN/7f4b3d1c77f5ab2fe7b5da98e17c7e31.jpg",
+        "https://i.ibb.co/nMGHMMbP/408292d0b834ca6d62d36d5c61b410e0.jpg",
+        "https://i.ibb.co/v4hmkwqr/59e83141ad08f45e8bde9b01a7baca36.jpg",
+        "https://i.ibb.co/hJc9QLp0/3ec2c7fb59191d4245d47ef003b45fed.jpg",
+        "https://i.ibb.co/K4TrsVg/46c3b7ed494328324f2c30051897badc.jpg",
+        "https://i.ibb.co/xtX8YBgR/74f85b597bf9eb3f0212db8e08b28242.jpg",
+        "https://i.ibb.co/L2qkyKr/d665f57aa3108b91288cd65fecec9f8e.jpg",
+        "https://i.ibb.co/rGBLpGdp/55032e614937a17805f907636190f052.jpg",
+        "https://i.ibb.co/1GG7mkRj/1762b0421418152da5b2d4d908536860.jpg",
+        "https://i.ibb.co/5WGp3p1t/fbeb04d5375426c7905e76cc7c7c37f3.jpg",
+        "https://i.ibb.co/tMCZfRQF/f514fad8dd57dd8f5507a3f39521f6b2.jpg",
+        "https://i.ibb.co/PGH84B0n/8be0438fa1b8890c4d397e32c1a7fa98.jpg",
+        "https://i.ibb.co/BHZ1GKsg/76708519f18656c48c331e003c55f97a.jpg",
+        "https://i.ibb.co/Cp5M9SnS/a7f8b948d0c91dd4cddbf2b5b1fc28db.jpg",
+        "https://i.ibb.co/99t2N8h2/bb7579baae175c97e5087781679cd1f9.jpg",
+        "https://i.ibb.co/N6grM1fH/5edfd829f5ec4ee8b92e62ef638f4cb9.jpg"
+      ],
+      "type": "comic",
+      "bucket": "data2",
+      "id": "heart-aching-1"
     }
   },
   "announcements": []
