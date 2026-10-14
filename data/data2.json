@@ -3351,10 +3351,38 @@
           "type": "comic",
           "bucket": "data2",
           "id": "world-extinction-war-7"
+        },
+        {
+          "number": 8,
+          "title": "Chapter 8",
+          "publishedAt": "2026-10-14T10:01:00.000Z",
+          "thumbnail": "https://i.ibb.co.com/0pjV2cJP/016-7c18fa99b24eaba48079cd7110b33099-jpg.jpg",
+          "pages": [
+            "https://i.ibb.co.com/Ps09Jd4C/001-c9447c6d8ce797755451cbbc72be9249-jpg.jpg",
+            "https://i.ibb.co.com/BpPHQWj/002-ca4f673298eb91fbd9cddc852f0c9ed2-jpg.jpg",
+            "https://i.ibb.co.com/XxQXzxck/003-4d30aab98d4987b600ed68d8bac186d3-jpg.jpg",
+            "https://i.ibb.co.com/jvC71zZd/004-e8cd73ac8b10868886b1713f63474617-jpg.jpg",
+            "https://i.ibb.co.com/LdFmcGZL/005-bd5c6ee9cd9bd398711f621a7d9ab450-jpg.jpg",
+            "https://i.ibb.co.com/yBBvfyM8/006-466bcfab873d7a72ba2c148f8a0be597-jpg.jpg",
+            "https://i.ibb.co.com/8DqMGZW5/007-cf7aa9056ed249c03a3f060e777a792b-jpg.jpg",
+            "https://i.ibb.co.com/HSpWgMR/008-c1007f0bd8f1f37ec38aee4db4fbd39b-jpg.jpg",
+            "https://i.ibb.co.com/1fwNp9zx/009-8177d8684220d42977e10a8890ff55a8-jpg.jpg",
+            "https://i.ibb.co.com/LXKnfphd/010-6b3a188e198c890d3509ae0d649a0e7d-jpg.jpg",
+            "https://i.ibb.co.com/x8JQmNGq/011-2eabd4b7fce49802490c98fa7d96b7b9-jpg.jpg",
+            "https://i.ibb.co.com/YB9hQSG9/012-e4f5522f5bc3ed8eb26d0113742f6e3b-jpg.jpg",
+            "https://i.ibb.co.com/xKcmV7pV/013-9204579b1b1c58d10a3fcf1bd4077430-jpg.jpg",
+            "https://i.ibb.co.com/TxXNmWhM/014-e2cbc899559d3d1afe8f6c8cf883701e-jpg.jpg",
+            "https://i.ibb.co.com/4xPypXf/015-ff09af9d730270aac1f163feaada09c1-jpg.jpg",
+            "https://i.ibb.co.com/0pjV2cJP/016-7c18fa99b24eaba48079cd7110b33099-jpg.jpg",
+            "https://i.ibb.co.com/Y42NTCrN/017-22a2291b45b6eed011260336c0989ae7-jpg.jpg"
+          ],
+          "type": "comic",
+          "bucket": "data2",
+          "id": "world-extinction-war-8"
         }
       ],
       "createdAt": "2026-10-13T14:18:09.206Z",
-      "updatedAt": "2026-10-14T16:25:44.724Z"
+      "updatedAt": "2026-10-14T17:02:26.105Z"
     },
     {
       "title": "I Married The Dragon I Killed",
@@ -4788,6 +4816,34 @@
       "type": "comic",
       "bucket": "data2",
       "id": "world-extinction-war-7"
+    },
+    "world-extinction-war-8": {
+      "number": 8,
+      "title": "Chapter 8",
+      "publishedAt": "2026-10-14T10:01:00.000Z",
+      "thumbnail": "https://i.ibb.co.com/0pjV2cJP/016-7c18fa99b24eaba48079cd7110b33099-jpg.jpg",
+      "pages": [
+        "https://i.ibb.co.com/Ps09Jd4C/001-c9447c6d8ce797755451cbbc72be9249-jpg.jpg",
+        "https://i.ibb.co.com/BpPHQWj/002-ca4f673298eb91fbd9cddc852f0c9ed2-jpg.jpg",
+        "https://i.ibb.co.com/XxQXzxck/003-4d30aab98d4987b600ed68d8bac186d3-jpg.jpg",
+        "https://i.ibb.co.com/jvC71zZd/004-e8cd73ac8b10868886b1713f63474617-jpg.jpg",
+        "https://i.ibb.co.com/LdFmcGZL/005-bd5c6ee9cd9bd398711f621a7d9ab450-jpg.jpg",
+        "https://i.ibb.co.com/yBBvfyM8/006-466bcfab873d7a72ba2c148f8a0be597-jpg.jpg",
+        "https://i.ibb.co.com/8DqMGZW5/007-cf7aa9056ed249c03a3f060e777a792b-jpg.jpg",
+        "https://i.ibb.co.com/HSpWgMR/008-c1007f0bd8f1f37ec38aee4db4fbd39b-jpg.jpg",
+        "https://i.ibb.co.com/1fwNp9zx/009-8177d8684220d42977e10a8890ff55a8-jpg.jpg",
+        "https://i.ibb.co.com/LXKnfphd/010-6b3a188e198c890d3509ae0d649a0e7d-jpg.jpg",
+        "https://i.ibb.co.com/x8JQmNGq/011-2eabd4b7fce49802490c98fa7d96b7b9-jpg.jpg",
+        "https://i.ibb.co.com/YB9hQSG9/012-e4f5522f5bc3ed8eb26d0113742f6e3b-jpg.jpg",
+        "https://i.ibb.co.com/xKcmV7pV/013-9204579b1b1c58d10a3fcf1bd4077430-jpg.jpg",
+        "https://i.ibb.co.com/TxXNmWhM/014-e2cbc899559d3d1afe8f6c8cf883701e-jpg.jpg",
+        "https://i.ibb.co.com/4xPypXf/015-ff09af9d730270aac1f163feaada09c1-jpg.jpg",
+        "https://i.ibb.co.com/0pjV2cJP/016-7c18fa99b24eaba48079cd7110b33099-jpg.jpg",
+        "https://i.ibb.co.com/Y42NTCrN/017-22a2291b45b6eed011260336c0989ae7-jpg.jpg"
+      ],
+      "type": "comic",
+      "bucket": "data2",
+      "id": "world-extinction-war-8"
     }
   },
   "announcements": []
