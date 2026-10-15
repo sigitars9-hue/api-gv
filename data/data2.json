@@ -3379,10 +3379,47 @@
           "type": "comic",
           "bucket": "data2",
           "id": "world-extinction-war-8"
+        },
+        {
+          "number": 9,
+          "title": "Chapter 9",
+          "publishedAt": "2026-10-14T18:26:00.000Z",
+          "thumbnail": "https://i.ibb.co.com/VpSZH0nq/006-4c455bcaeeec4f4b48c1c9e2072e0f2e-jpg.jpg",
+          "pages": [
+            "https://i.ibb.co.com/b5WTFqn9/001-e1493954bb56bec97aba6987b24ed15a-jpg.jpg",
+            "https://i.ibb.co.com/VcWShxWw/002-3e97ef0775af7af5e9f88a6361e39946-jpg.jpg",
+            "https://i.ibb.co.com/Rxg9Jxr/003-54ab44d86a16acc1348352de9d4549c3-jpg.jpg",
+            "https://i.ibb.co.com/6c2q6Dvq/004-890821fce93af4c935f3f2859a51274f-jpg.jpg",
+            "https://i.ibb.co.com/vxM71hC8/005-d3c106f0ba649e81bb52ebcdd3e4b9c7-jpg.jpg",
+            "https://i.ibb.co.com/VpSZH0nq/006-4c455bcaeeec4f4b48c1c9e2072e0f2e-jpg.jpg",
+            "https://i.ibb.co.com/hRhtK3gQ/007-fca7c41f35cc7438eda7963d69c918c0-jpg.jpg",
+            "https://i.ibb.co.com/4wQWmPD0/008-dc44184ff328da37da2473932db38e9c-jpg.jpg",
+            "https://i.ibb.co.com/270CWksy/009-7ed6d06d958d342a4660d4b314e7e728-jpg.jpg",
+            "https://i.ibb.co.com/k6sRW16r/010-e81b71f19c2e8d3a97ac92147fbe6cd2-jpg.jpg",
+            "https://i.ibb.co.com/XZ6zwspG/011-e8f203a6467df5935d9ce746e1832865-jpg.jpg",
+            "https://i.ibb.co.com/G4rtxtL8/012-5788309de25f0c4246172c4fde89d580-jpg.jpg",
+            "https://i.ibb.co.com/sdgVjB32/013-612532db1dd49affacd788db26f03d8e-jpg.jpg",
+            "https://i.ibb.co.com/fVPJwMxB/014-251d4d821ee965165b681054fc109092-jpg.jpg",
+            "https://i.ibb.co.com/VYMG5Wyt/015-a9c7c0aaca1e865f30cc7699d60ca8f8-jpg.jpg",
+            "https://i.ibb.co.com/WWwfSrQb/016-4871eb152e4927178336aa222bceea3b-jpg.jpg",
+            "https://i.ibb.co.com/tTpNjbxJ/017-0a4e48dd34e0a1c9a9622adab0137d57-jpg.jpg",
+            "https://i.ibb.co.com/cXZnGgTX/018-fcdd5d74d54695641937b04e9207ba26-jpg.jpg",
+            "https://i.ibb.co.com/tMcBp6g3/019-48c082eaa85b786b0d1883803cabe039-jpg.jpg",
+            "https://i.ibb.co.com/SwyxkpdP/020-f8e22f1a9c193733149b2b8c44f22109-jpg.jpg",
+            "https://i.ibb.co.com/2z36g45/021-ae7ba6594bb52654b5929c9dfc4f982d-jpg.jpg",
+            "https://i.ibb.co.com/3YRHTMyw/022-1a63e2f0d9f63c13e7a774c3a040f533-jpg.jpg",
+            "https://i.ibb.co.com/hFZCzgzp/023-b680f6a21e0049bf74878004340deb87-jpg.jpg",
+            "https://i.ibb.co.com/KxRcPV4d/024-1bc1c9639521e8cba923d344bf12ce71-jpg.jpg",
+            "https://i.ibb.co.com/nsjc3Ryf/025-777f80bb35b78d010f4c7ec3fbb128c5-jpg.jpg",
+            "https://i.ibb.co.com/XZHjSJpZ/026-b0538ac02af2c422be947c6272b5f7e8-jpg.jpg"
+          ],
+          "type": "comic",
+          "bucket": "data2",
+          "id": "world-extinction-war-9"
         }
       ],
       "createdAt": "2026-10-13T14:18:09.206Z",
-      "updatedAt": "2026-10-14T17:02:26.105Z"
+      "updatedAt": "2026-10-15T01:27:08.711Z"
     },
     {
       "title": "I Married The Dragon I Killed",
@@ -5282,6 +5319,43 @@
       "type": "comic",
       "bucket": "data2",
       "id": "swordmaster-youngest-son-12"
+    },
+    "world-extinction-war-9": {
+      "number": 9,
+      "title": "Chapter 9",
+      "publishedAt": "2026-10-14T18:26:00.000Z",
+      "thumbnail": "https://i.ibb.co.com/VpSZH0nq/006-4c455bcaeeec4f4b48c1c9e2072e0f2e-jpg.jpg",
+      "pages": [
+        "https://i.ibb.co.com/b5WTFqn9/001-e1493954bb56bec97aba6987b24ed15a-jpg.jpg",
+        "https://i.ibb.co.com/VcWShxWw/002-3e97ef0775af7af5e9f88a6361e39946-jpg.jpg",
+        "https://i.ibb.co.com/Rxg9Jxr/003-54ab44d86a16acc1348352de9d4549c3-jpg.jpg",
+        "https://i.ibb.co.com/6c2q6Dvq/004-890821fce93af4c935f3f2859a51274f-jpg.jpg",
+        "https://i.ibb.co.com/vxM71hC8/005-d3c106f0ba649e81bb52ebcdd3e4b9c7-jpg.jpg",
+        "https://i.ibb.co.com/VpSZH0nq/006-4c455bcaeeec4f4b48c1c9e2072e0f2e-jpg.jpg",
+        "https://i.ibb.co.com/hRhtK3gQ/007-fca7c41f35cc7438eda7963d69c918c0-jpg.jpg",
+        "https://i.ibb.co.com/4wQWmPD0/008-dc44184ff328da37da2473932db38e9c-jpg.jpg",
+        "https://i.ibb.co.com/270CWksy/009-7ed6d06d958d342a4660d4b314e7e728-jpg.jpg",
+        "https://i.ibb.co.com/k6sRW16r/010-e81b71f19c2e8d3a97ac92147fbe6cd2-jpg.jpg",
+        "https://i.ibb.co.com/XZ6zwspG/011-e8f203a6467df5935d9ce746e1832865-jpg.jpg",
+        "https://i.ibb.co.com/G4rtxtL8/012-5788309de25f0c4246172c4fde89d580-jpg.jpg",
+        "https://i.ibb.co.com/sdgVjB32/013-612532db1dd49affacd788db26f03d8e-jpg.jpg",
+        "https://i.ibb.co.com/fVPJwMxB/014-251d4d821ee965165b681054fc109092-jpg.jpg",
+        "https://i.ibb.co.com/VYMG5Wyt/015-a9c7c0aaca1e865f30cc7699d60ca8f8-jpg.jpg",
+        "https://i.ibb.co.com/WWwfSrQb/016-4871eb152e4927178336aa222bceea3b-jpg.jpg",
+        "https://i.ibb.co.com/tTpNjbxJ/017-0a4e48dd34e0a1c9a9622adab0137d57-jpg.jpg",
+        "https://i.ibb.co.com/cXZnGgTX/018-fcdd5d74d54695641937b04e9207ba26-jpg.jpg",
+        "https://i.ibb.co.com/tMcBp6g3/019-48c082eaa85b786b0d1883803cabe039-jpg.jpg",
+        "https://i.ibb.co.com/SwyxkpdP/020-f8e22f1a9c193733149b2b8c44f22109-jpg.jpg",
+        "https://i.ibb.co.com/2z36g45/021-ae7ba6594bb52654b5929c9dfc4f982d-jpg.jpg",
+        "https://i.ibb.co.com/3YRHTMyw/022-1a63e2f0d9f63c13e7a774c3a040f533-jpg.jpg",
+        "https://i.ibb.co.com/hFZCzgzp/023-b680f6a21e0049bf74878004340deb87-jpg.jpg",
+        "https://i.ibb.co.com/KxRcPV4d/024-1bc1c9639521e8cba923d344bf12ce71-jpg.jpg",
+        "https://i.ibb.co.com/nsjc3Ryf/025-777f80bb35b78d010f4c7ec3fbb128c5-jpg.jpg",
+        "https://i.ibb.co.com/XZHjSJpZ/026-b0538ac02af2c422be947c6272b5f7e8-jpg.jpg"
+      ],
+      "type": "comic",
+      "bucket": "data2",
+      "id": "world-extinction-war-9"
     }
   },
   "announcements": []
