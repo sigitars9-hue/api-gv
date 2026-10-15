@@ -7,7 +7,35 @@
   "genres": [],
   "tags": [],
   "cover": "",
-  "chapters": [],
+  "chapters": {},
   "createdAt": "2026-10-13T12:42:54.462Z",
-  "updatedAt": "2026-10-13T12:42:54.462Z"
+  "updatedAt": "2026-10-13T12:42:54.462Z",
+  "series": [
+    {
+      "title": "Haimiya-senpai wa Kowakute Kawaii",
+      "slug": "haimiya-senpai-wa-kowakute-kawaii",
+      "type": "Manga",
+      "format": "Comic",
+      "status": "Ongoing",
+      "author": "Pengarang: Kamiyama Sumu (神山すむ)",
+      "artist": "Pengarang: Kamiyama Sumu (神山すむ",
+      "description": "Manga Haimiya-senpai wa Kowakute Kawaii yang dibuat oleh komikus bernama Kamiyama Sumu (神山すむ) ini bercerita tentang Di sekolahku, Haimiya-senpai ditakuti oleh semua orang dan dianggap terlalu menakutkan. Rupanya, ini karena penampilannya yang mengintimidasi dan cara bicaranya yang blak-blakan... dan tindikannya yang berkilauan! Rambutnya yang panjang dan abu-abu, ditata dengan gaya \"potongan serigala\"! Bahkan aksen Kansai-nya pun mengintimidasi!!! Tapi, entah kenapa, senpai yang menakutkan ini memperlakukanku dengan baik...? Saat \"menakutkan\" berubah menjadi \"imut,\" komedi romantis yang menghangatkan hati ini bersama senpai yang menakutkan pun dimulai!",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "School Life",
+        "Shounen",
+        "Drama"
+      ],
+      "tags": [],
+      "cover": "https://i.ibb.co.com/DDfq36k6/Komik-Haimiya-senpai-wa-Kowakute-Kawaii-224x319.jpg",
+      "backdrop": "https://i.ibb.co.com/DDfq36k6/Komik-Haimiya-senpai-wa-Kowakute-Kawaii-224x319.jpg",
+      "rating": 9.2,
+      "views": 554349,
+      "chapters": [],
+      "createdAt": "2026-10-15T02:49:46.854Z",
+      "updatedAt": "2026-10-15T02:49:46.854Z"
+    }
+  ],
+  "announcements": []
 }
