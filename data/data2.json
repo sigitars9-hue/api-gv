@@ -3942,36 +3942,10 @@
           "type": "comic",
           "bucket": "data2",
           "id": "swordmaster-youngest-son-11"
-        },
-        {
-          "number": 12,
-          "title": "Chapter 12",
-          "publishedAt": "2026-10-14T16:30:00.000Z",
-          "thumbnail": "https://i.ibb.co/p62pbPHj/5-a2d60a96cecf.jpg",
-          "pages": [
-            "https://i.ibb.co/h1VSnGDh/1-6a0ed36647a2.jpg",
-            "https://i.ibb.co/QG31Fxm/2-d73ad2a4c6c2.jpg",
-            "https://i.ibb.co/nMjPmgnW/3-e52b21294cb3.jpg",
-            "https://i.ibb.co/KcHc4cjn/4-f72c1b955cd6.jpg",
-            "https://i.ibb.co/p62pbPHj/5-a2d60a96cecf.jpg",
-            "https://i.ibb.co/bRqJcFT8/6-4db745fe8c02.jpg",
-            "https://i.ibb.co/5W9PDZZn/7-cafe90dc5a8c.jpg",
-            "https://i.ibb.co/LdQBQF7b/8-1a192375a805.jpg",
-            "https://i.ibb.co/3yHyr9Tf/9-9b1a061a46bb.jpg",
-            "https://i.ibb.co/XfjrW7s5/10-4dacd120c60e.jpg",
-            "https://i.ibb.co/GQkxYWBF/11-cff06d69810e.jpg",
-            "https://i.ibb.co/nqq9WT8r/12-fa42d31dad41.jpg",
-            "https://i.ibb.co/1tCLxmjR/13-4071e2585b8f.jpg",
-            "https://i.ibb.co/G4SBt273/19-c48424490834.jpg",
-            "https://i.ibb.co/M5hmZdH9/15-ab131f2822d3.jpg"
-          ],
-          "type": "comic",
-          "bucket": "data2",
-          "id": "swordmaster-youngest-son-12"
         }
       ],
       "createdAt": "2026-10-14T13:08:02.328Z",
-      "updatedAt": "2026-10-15T04:08:32.242Z"
+      "updatedAt": "2026-10-15T04:08:35.724Z"
     },
     {
       "title": "Maryoku Zero no Saikyou Kenja ~Mahou Riron o Kiwametara, Sekai Saikyou ni Natte Ita~",
@@ -5403,32 +5377,6 @@
       "type": "comic",
       "bucket": "data2",
       "id": "swordmaster-youngest-son-11"
-    },
-    "swordmaster-youngest-son-12": {
-      "number": 12,
-      "title": "Chapter 12",
-      "publishedAt": "2026-10-14T16:30:00.000Z",
-      "thumbnail": "https://i.ibb.co/p62pbPHj/5-a2d60a96cecf.jpg",
-      "pages": [
-        "https://i.ibb.co/h1VSnGDh/1-6a0ed36647a2.jpg",
-        "https://i.ibb.co/QG31Fxm/2-d73ad2a4c6c2.jpg",
-        "https://i.ibb.co/nMjPmgnW/3-e52b21294cb3.jpg",
-        "https://i.ibb.co/KcHc4cjn/4-f72c1b955cd6.jpg",
-        "https://i.ibb.co/p62pbPHj/5-a2d60a96cecf.jpg",
-        "https://i.ibb.co/bRqJcFT8/6-4db745fe8c02.jpg",
-        "https://i.ibb.co/5W9PDZZn/7-cafe90dc5a8c.jpg",
-        "https://i.ibb.co/LdQBQF7b/8-1a192375a805.jpg",
-        "https://i.ibb.co/3yHyr9Tf/9-9b1a061a46bb.jpg",
-        "https://i.ibb.co/XfjrW7s5/10-4dacd120c60e.jpg",
-        "https://i.ibb.co/GQkxYWBF/11-cff06d69810e.jpg",
-        "https://i.ibb.co/nqq9WT8r/12-fa42d31dad41.jpg",
-        "https://i.ibb.co/1tCLxmjR/13-4071e2585b8f.jpg",
-        "https://i.ibb.co/G4SBt273/19-c48424490834.jpg",
-        "https://i.ibb.co/M5hmZdH9/15-ab131f2822d3.jpg"
-      ],
-      "type": "comic",
-      "bucket": "data2",
-      "id": "swordmaster-youngest-son-12"
     },
     "world-extinction-war-9": {
       "number": 9,
