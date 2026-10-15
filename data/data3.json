@@ -24,25 +24,6 @@
       "type": "comic",
       "bucket": "data3",
       "id": "haimiya-senpai-wa-kowakute-kawaii-1"
-    },
-    "haimiya-senpai-wa-kowakute-kawaii-2": {
-      "number": 2,
-      "title": "Chapter 2",
-      "publishedAt": "2026-10-14T18:18:00.000Z",
-      "thumbnail": "https://i.ibb.co/TxqmTvpM/5.webp",
-      "pages": [
-        "https://i.ibb.co/k696gnMp/komiku-promosi.webp",
-        "https://i.ibb.co/65BHsgw/1.webp",
-        "https://i.ibb.co/PZcjTXLp/2.webp",
-        "https://i.ibb.co/WWy6PHkZ/3.webp",
-        "https://i.ibb.co/5xfxdZT0/4.webp",
-        "https://i.ibb.co/TxqmTvpM/5.webp",
-        "https://i.ibb.co/s9Gg3N09/6.webp",
-        "https://i.ibb.co/CXfkJ0k/7.webp"
-      ],
-      "type": "comic",
-      "bucket": "data3",
-      "id": "haimiya-senpai-wa-kowakute-kawaii-2"
     }
   },
   "createdAt": "2026-10-13T12:42:54.462Z",
@@ -86,29 +67,10 @@
           "type": "comic",
           "bucket": "data3",
           "id": "haimiya-senpai-wa-kowakute-kawaii-1"
-        },
-        {
-          "number": 2,
-          "title": "Chapter 2",
-          "publishedAt": "2026-10-14T18:18:00.000Z",
-          "thumbnail": "https://i.ibb.co/TxqmTvpM/5.webp",
-          "pages": [
-            "https://i.ibb.co/k696gnMp/komiku-promosi.webp",
-            "https://i.ibb.co/65BHsgw/1.webp",
-            "https://i.ibb.co/PZcjTXLp/2.webp",
-            "https://i.ibb.co/WWy6PHkZ/3.webp",
-            "https://i.ibb.co/5xfxdZT0/4.webp",
-            "https://i.ibb.co/TxqmTvpM/5.webp",
-            "https://i.ibb.co/s9Gg3N09/6.webp",
-            "https://i.ibb.co/CXfkJ0k/7.webp"
-          ],
-          "type": "comic",
-          "bucket": "data3",
-          "id": "haimiya-senpai-wa-kowakute-kawaii-2"
         }
       ],
       "createdAt": "2026-10-15T02:49:46.854Z",
-      "updatedAt": "2026-10-15T03:52:56.241Z"
+      "updatedAt": "2026-10-15T03:53:00.786Z"
     },
     {
       "title": "Healing at the Academy Convenience Store",
