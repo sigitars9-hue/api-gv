@@ -3602,10 +3602,40 @@
           "type": "comic",
           "bucket": "data2",
           "id": "swordmaster-youngest-son-4"
+        },
+        {
+          "number": 5,
+          "title": "Chapter 5",
+          "publishedAt": "2026-10-14T16:30:00.000Z",
+          "thumbnail": "https://i.ibb.co/20WMPDZN/18-fb5dba3f0620.jpg",
+          "pages": [
+            "https://i.ibb.co/QFt0Hkx2/1-ad2e969f5448.jpg",
+            "https://i.ibb.co/sd8j9Vrs/2-cb6210d48f8f.jpg",
+            "https://i.ibb.co/xtPWfHZs/3-27072fc8461b.jpg",
+            "https://i.ibb.co/zY7z6f1/4-e8716007f0f1.jpg",
+            "https://i.ibb.co/5g8hpTtJ/5-0577efe23875.jpg",
+            "https://i.ibb.co/x85wFsSP/6-33309021880f.jpg",
+            "https://i.ibb.co/4wc8Q6jM/7-e7bed9249e06.jpg",
+            "https://i.ibb.co/39fFwsq9/8-74fff05d1dca.jpg",
+            "https://i.ibb.co/F4Tk7GrX/9-c34e576e9ac4.jpg",
+            "https://i.ibb.co/xqkngHHj/10-e8df5471f184.jpg",
+            "https://i.ibb.co/kg3jKWRm/11-d65d2fccdfcb.jpg",
+            "https://i.ibb.co/gZwwtJGn/12-fddb5839f48a.jpg",
+            "https://i.ibb.co/KxC8ztC6/13-95ca8dc3f570.jpg",
+            "https://i.ibb.co/wrxdVpRq/14-f2b0a98680a8.jpg",
+            "https://i.ibb.co/WN2zFfLV/15-590cfc67f829.jpg",
+            "https://i.ibb.co/9FZFst4/16-afad41f22f0e.jpg",
+            "https://i.ibb.co/CppV8v7D/17-39beec7724b7.jpg",
+            "https://i.ibb.co/20WMPDZN/18-fb5dba3f0620.jpg",
+            "https://i.ibb.co/G4SBt273/19-c48424490834.jpg"
+          ],
+          "type": "comic",
+          "bucket": "data2",
+          "id": "swordmaster-youngest-son-5"
         }
       ],
       "createdAt": "2026-10-14T13:08:02.328Z",
-      "updatedAt": "2026-10-14T14:49:46.377Z"
+      "updatedAt": "2026-10-15T00:32:38.279Z"
     },
     {
       "title": "Maryoku Zero no Saikyou Kenja ~Mahou Riron o Kiwametara, Sekai Saikyou ni Natte Ita~",
@@ -4844,6 +4874,36 @@
       "type": "comic",
       "bucket": "data2",
       "id": "world-extinction-war-8"
+    },
+    "swordmaster-youngest-son-5": {
+      "number": 5,
+      "title": "Chapter 5",
+      "publishedAt": "2026-10-14T16:30:00.000Z",
+      "thumbnail": "https://i.ibb.co/20WMPDZN/18-fb5dba3f0620.jpg",
+      "pages": [
+        "https://i.ibb.co/QFt0Hkx2/1-ad2e969f5448.jpg",
+        "https://i.ibb.co/sd8j9Vrs/2-cb6210d48f8f.jpg",
+        "https://i.ibb.co/xtPWfHZs/3-27072fc8461b.jpg",
+        "https://i.ibb.co/zY7z6f1/4-e8716007f0f1.jpg",
+        "https://i.ibb.co/5g8hpTtJ/5-0577efe23875.jpg",
+        "https://i.ibb.co/x85wFsSP/6-33309021880f.jpg",
+        "https://i.ibb.co/4wc8Q6jM/7-e7bed9249e06.jpg",
+        "https://i.ibb.co/39fFwsq9/8-74fff05d1dca.jpg",
+        "https://i.ibb.co/F4Tk7GrX/9-c34e576e9ac4.jpg",
+        "https://i.ibb.co/xqkngHHj/10-e8df5471f184.jpg",
+        "https://i.ibb.co/kg3jKWRm/11-d65d2fccdfcb.jpg",
+        "https://i.ibb.co/gZwwtJGn/12-fddb5839f48a.jpg",
+        "https://i.ibb.co/KxC8ztC6/13-95ca8dc3f570.jpg",
+        "https://i.ibb.co/wrxdVpRq/14-f2b0a98680a8.jpg",
+        "https://i.ibb.co/WN2zFfLV/15-590cfc67f829.jpg",
+        "https://i.ibb.co/9FZFst4/16-afad41f22f0e.jpg",
+        "https://i.ibb.co/CppV8v7D/17-39beec7724b7.jpg",
+        "https://i.ibb.co/20WMPDZN/18-fb5dba3f0620.jpg",
+        "https://i.ibb.co/G4SBt273/19-c48424490834.jpg"
+      ],
+      "type": "comic",
+      "bucket": "data2",
+      "id": "swordmaster-youngest-son-5"
     }
   },
   "announcements": []
