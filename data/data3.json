@@ -43,6 +43,28 @@
       "type": "comic",
       "bucket": "data3",
       "id": "haimiya-senpai-wa-kowakute-kawaii-2"
+    },
+    "haimiya-senpai-wa-kowakute-kawaii-3": {
+      "number": 3,
+      "title": "Chapter 3",
+      "publishedAt": "2026-10-14T18:18:00.000Z",
+      "thumbnail": "https://i.ibb.co/5hS1b0jx/10.webp",
+      "pages": [
+        "https://i.ibb.co/k696gnMp/komiku-promosi.webp",
+        "https://i.ibb.co/ns37fTsS/1.webp",
+        "https://i.ibb.co/S7XVPSJB/2.webp",
+        "https://i.ibb.co/DPxJyfFH/3.webp",
+        "https://i.ibb.co/0yjf050q/4.webp",
+        "https://i.ibb.co/j9K06nCn/5.webp",
+        "https://i.ibb.co/0Rw4YKtb/6.webp",
+        "https://i.ibb.co/1tXFz532/7.webp",
+        "https://i.ibb.co/dwFRX0D9/8.webp",
+        "https://i.ibb.co/0V9vW0Ly/9.webp",
+        "https://i.ibb.co/5hS1b0jx/10.webp"
+      ],
+      "type": "comic",
+      "bucket": "data3",
+      "id": "haimiya-senpai-wa-kowakute-kawaii-3"
     }
   },
   "createdAt": "2026-10-13T12:42:54.462Z",
@@ -105,10 +127,32 @@
           "type": "comic",
           "bucket": "data3",
           "id": "haimiya-senpai-wa-kowakute-kawaii-2"
+        },
+        {
+          "number": 3,
+          "title": "Chapter 3",
+          "publishedAt": "2026-10-14T18:18:00.000Z",
+          "thumbnail": "https://i.ibb.co/5hS1b0jx/10.webp",
+          "pages": [
+            "https://i.ibb.co/k696gnMp/komiku-promosi.webp",
+            "https://i.ibb.co/ns37fTsS/1.webp",
+            "https://i.ibb.co/S7XVPSJB/2.webp",
+            "https://i.ibb.co/DPxJyfFH/3.webp",
+            "https://i.ibb.co/0yjf050q/4.webp",
+            "https://i.ibb.co/j9K06nCn/5.webp",
+            "https://i.ibb.co/0Rw4YKtb/6.webp",
+            "https://i.ibb.co/1tXFz532/7.webp",
+            "https://i.ibb.co/dwFRX0D9/8.webp",
+            "https://i.ibb.co/0V9vW0Ly/9.webp",
+            "https://i.ibb.co/5hS1b0jx/10.webp"
+          ],
+          "type": "comic",
+          "bucket": "data3",
+          "id": "haimiya-senpai-wa-kowakute-kawaii-3"
         }
       ],
       "createdAt": "2026-10-15T02:49:46.854Z",
-      "updatedAt": "2026-10-15T03:32:11.645Z"
+      "updatedAt": "2026-10-15T03:33:41.787Z"
     },
     {
       "title": "Healing at the Academy Convenience Store",
