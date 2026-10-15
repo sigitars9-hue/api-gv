@@ -86,6 +86,29 @@
       "type": "comic",
       "bucket": "data3",
       "id": "haimiya-senpai-wa-kowakute-kawaii-4"
+    },
+    "haimiya-senpai-wa-kowakute-kawaii-5": {
+      "number": 5,
+      "title": "Chapter 5",
+      "publishedAt": "2026-10-14T18:18:00.000Z",
+      "thumbnail": "https://i.ibb.co/DgYcg0xy/3.webp",
+      "pages": [
+        "https://i.ibb.co/k696gnMp/komiku-promosi.webp",
+        "https://i.ibb.co/yn3Xm6Y5/1.webp",
+        "https://i.ibb.co/ZRCPhXmX/2.webp",
+        "https://i.ibb.co/DgYcg0xy/3.webp",
+        "https://i.ibb.co/jvkh0CVf/4.webp",
+        "https://i.ibb.co/dwFnvvHK/5.webp",
+        "https://i.ibb.co/1JnQrn6j/6.webp",
+        "https://i.ibb.co/d0PcWcZp/7.webp",
+        "https://i.ibb.co/9kfHJscK/8.webp",
+        "https://i.ibb.co/QvsR4sTr/9.webp",
+        "https://i.ibb.co/ksw2QXTK/10.webp",
+        "https://i.ibb.co/XfSt79Py/11.webp"
+      ],
+      "type": "comic",
+      "bucket": "data3",
+      "id": "haimiya-senpai-wa-kowakute-kawaii-5"
     }
   },
   "createdAt": "2026-10-13T12:42:54.462Z",
@@ -191,10 +214,33 @@
           "type": "comic",
           "bucket": "data3",
           "id": "haimiya-senpai-wa-kowakute-kawaii-4"
+        },
+        {
+          "number": 5,
+          "title": "Chapter 5",
+          "publishedAt": "2026-10-14T18:18:00.000Z",
+          "thumbnail": "https://i.ibb.co/DgYcg0xy/3.webp",
+          "pages": [
+            "https://i.ibb.co/k696gnMp/komiku-promosi.webp",
+            "https://i.ibb.co/yn3Xm6Y5/1.webp",
+            "https://i.ibb.co/ZRCPhXmX/2.webp",
+            "https://i.ibb.co/DgYcg0xy/3.webp",
+            "https://i.ibb.co/jvkh0CVf/4.webp",
+            "https://i.ibb.co/dwFnvvHK/5.webp",
+            "https://i.ibb.co/1JnQrn6j/6.webp",
+            "https://i.ibb.co/d0PcWcZp/7.webp",
+            "https://i.ibb.co/9kfHJscK/8.webp",
+            "https://i.ibb.co/QvsR4sTr/9.webp",
+            "https://i.ibb.co/ksw2QXTK/10.webp",
+            "https://i.ibb.co/XfSt79Py/11.webp"
+          ],
+          "type": "comic",
+          "bucket": "data3",
+          "id": "haimiya-senpai-wa-kowakute-kawaii-5"
         }
       ],
       "createdAt": "2026-10-15T02:49:46.854Z",
-      "updatedAt": "2026-10-15T03:35:21.531Z"
+      "updatedAt": "2026-10-15T03:37:02.837Z"
     },
     {
       "title": "Healing at the Academy Convenience Store",
