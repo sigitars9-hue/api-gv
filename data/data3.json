@@ -7,25 +7,7 @@
   "genres": [],
   "tags": [],
   "cover": "",
-  "chapters": {
-    "haimiya-senpai-wa-kowakute-kawaii-1": {
-      "number": 1,
-      "title": "Chapter 1",
-      "publishedAt": "2026-10-14T18:18:00.000Z",
-      "thumbnail": "https://i.ibb.co/DPQt1nfS/e6da28d1-f50b-44c4-8bc4-88b4a72a72cd.webp",
-      "pages": [
-        "https://i.ibb.co/Ndvq4czy/3bd6e66f-4925-4f20-a262-8f35a3626485.webp",
-        "https://i.ibb.co/RTtMbDLH/f1b656e3-032f-485d-af57-13533ad2d955.webp",
-        "https://i.ibb.co/HLmsxJrn/e95f1673-7272-4018-957b-78c1b81298fe.webp",
-        "https://i.ibb.co/zhs1Mcx6/7a5d8938-e644-4d87-a0cc-0a88b8ee6fb8.webp",
-        "https://i.ibb.co/DPQt1nfS/e6da28d1-f50b-44c4-8bc4-88b4a72a72cd.webp",
-        "https://i.ibb.co/TxmNKFg6/c22ad979-5baa-4336-a45d-b08d31317357.webp"
-      ],
-      "type": "comic",
-      "bucket": "data3",
-      "id": "haimiya-senpai-wa-kowakute-kawaii-1"
-    }
-  },
+  "chapters": {},
   "createdAt": "2026-10-13T12:42:54.462Z",
   "updatedAt": "2026-10-13T12:42:54.462Z",
   "series": [
@@ -50,27 +32,9 @@
       "backdrop": "https://i.ibb.co.com/Kz3W35x3/1792033455858.jpg",
       "rating": 9.2,
       "views": 554349,
-      "chapters": [
-        {
-          "number": 1,
-          "title": "Chapter 1",
-          "publishedAt": "2026-10-14T18:18:00.000Z",
-          "thumbnail": "https://i.ibb.co/DPQt1nfS/e6da28d1-f50b-44c4-8bc4-88b4a72a72cd.webp",
-          "pages": [
-            "https://i.ibb.co/Ndvq4czy/3bd6e66f-4925-4f20-a262-8f35a3626485.webp",
-            "https://i.ibb.co/RTtMbDLH/f1b656e3-032f-485d-af57-13533ad2d955.webp",
-            "https://i.ibb.co/HLmsxJrn/e95f1673-7272-4018-957b-78c1b81298fe.webp",
-            "https://i.ibb.co/zhs1Mcx6/7a5d8938-e644-4d87-a0cc-0a88b8ee6fb8.webp",
-            "https://i.ibb.co/DPQt1nfS/e6da28d1-f50b-44c4-8bc4-88b4a72a72cd.webp",
-            "https://i.ibb.co/TxmNKFg6/c22ad979-5baa-4336-a45d-b08d31317357.webp"
-          ],
-          "type": "comic",
-          "bucket": "data3",
-          "id": "haimiya-senpai-wa-kowakute-kawaii-1"
-        }
-      ],
+      "chapters": [],
       "createdAt": "2026-10-15T02:49:46.854Z",
-      "updatedAt": "2026-10-15T03:53:00.786Z"
+      "updatedAt": "2026-10-15T03:53:04.221Z"
     },
     {
       "title": "Healing at the Academy Convenience Store",
