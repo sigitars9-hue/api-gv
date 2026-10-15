@@ -4021,37 +4021,10 @@
           "type": "comic",
           "bucket": "data2",
           "id": "swordmaster-youngest-son-14"
-        },
-        {
-          "number": 15,
-          "title": "Chapter 15",
-          "publishedAt": "2026-10-14T18:18:00.000Z",
-          "thumbnail": "https://i.ibb.co/ZRvY9WPc/15-9e91780f8be7.jpg",
-          "pages": [
-            "https://i.ibb.co/tM3Wvvt6/1-549b167fe99c.jpg",
-            "https://i.ibb.co/XfJ1rN2s/2-a3316ae7a5ed.jpg",
-            "https://i.ibb.co/FqfKRtc6/3-fdc82052ef73.jpg",
-            "https://i.ibb.co/7d5X9R6z/4-7aba80e57a3b.jpg",
-            "https://i.ibb.co/7xhgKCCx/5-d5e40f42e8c6.jpg",
-            "https://i.ibb.co/2rG2V7Y/6-de875c4fde37.jpg",
-            "https://i.ibb.co/Tqvj2T2r/7-1e9757f4b35d.jpg",
-            "https://i.ibb.co/TxLk3nry/8-cdf328640e6d.jpg",
-            "https://i.ibb.co/zTR8twNS/9-b342e526dd5a.jpg",
-            "https://i.ibb.co/GvK4vCsQ/10-5d8c37e0cc84.jpg",
-            "https://i.ibb.co/TMvJy8YQ/11-3feeb7eae286.jpg",
-            "https://i.ibb.co/Xr0Dj579/12-285145ae7238.jpg",
-            "https://i.ibb.co/dXX71rT/13-e4cc6df00522.jpg",
-            "https://i.ibb.co/S70j5dGh/14-d3336e510dad.jpg",
-            "https://i.ibb.co/ZRvY9WPc/15-9e91780f8be7.jpg",
-            "https://i.ibb.co/G4SBt273/19-c48424490834.jpg"
-          ],
-          "type": "comic",
-          "bucket": "data2",
-          "id": "swordmaster-youngest-son-15"
         }
       ],
       "createdAt": "2026-10-14T13:08:02.328Z",
-      "updatedAt": "2026-10-15T04:08:15.102Z"
+      "updatedAt": "2026-10-15T04:08:20.508Z"
     },
     {
       "title": "Maryoku Zero no Saikyou Kenja ~Mahou Riron o Kiwametara, Sekai Saikyou ni Natte Ita~",
@@ -5709,33 +5682,6 @@
       "type": "comic",
       "bucket": "data2",
       "id": "swordmaster-youngest-son-14"
-    },
-    "swordmaster-youngest-son-15": {
-      "number": 15,
-      "title": "Chapter 15",
-      "publishedAt": "2026-10-14T18:18:00.000Z",
-      "thumbnail": "https://i.ibb.co/ZRvY9WPc/15-9e91780f8be7.jpg",
-      "pages": [
-        "https://i.ibb.co/tM3Wvvt6/1-549b167fe99c.jpg",
-        "https://i.ibb.co/XfJ1rN2s/2-a3316ae7a5ed.jpg",
-        "https://i.ibb.co/FqfKRtc6/3-fdc82052ef73.jpg",
-        "https://i.ibb.co/7d5X9R6z/4-7aba80e57a3b.jpg",
-        "https://i.ibb.co/7xhgKCCx/5-d5e40f42e8c6.jpg",
-        "https://i.ibb.co/2rG2V7Y/6-de875c4fde37.jpg",
-        "https://i.ibb.co/Tqvj2T2r/7-1e9757f4b35d.jpg",
-        "https://i.ibb.co/TxLk3nry/8-cdf328640e6d.jpg",
-        "https://i.ibb.co/zTR8twNS/9-b342e526dd5a.jpg",
-        "https://i.ibb.co/GvK4vCsQ/10-5d8c37e0cc84.jpg",
-        "https://i.ibb.co/TMvJy8YQ/11-3feeb7eae286.jpg",
-        "https://i.ibb.co/Xr0Dj579/12-285145ae7238.jpg",
-        "https://i.ibb.co/dXX71rT/13-e4cc6df00522.jpg",
-        "https://i.ibb.co/S70j5dGh/14-d3336e510dad.jpg",
-        "https://i.ibb.co/ZRvY9WPc/15-9e91780f8be7.jpg",
-        "https://i.ibb.co/G4SBt273/19-c48424490834.jpg"
-      ],
-      "type": "comic",
-      "bucket": "data2",
-      "id": "swordmaster-youngest-son-15"
     }
   },
   "announcements": []
