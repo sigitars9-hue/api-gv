@@ -3801,10 +3801,42 @@
           "type": "comic",
           "bucket": "data2",
           "id": "maryoku-zero-no-saikyou-kenja-mahou-riron-o-kiwametara-sekai-saikyou-ni-natte-ita-3"
+        },
+        {
+          "number": 4,
+          "title": "Chapter 2.1",
+          "publishedAt": "2026-10-16T15:51:00.000Z",
+          "thumbnail": "https://i.ibb.co.com/SCQQC5Q/189780b0-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+          "pages": [
+            "https://i.ibb.co.com/SCQQC5Q/189780b0-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/7Nr3nFqS/189780b1-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/GQ6PrYFk/189780b2-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/YTKLyVL0/189780b3-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/PsJTfMtX/1897a7c0-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/bjxhs2Ht/1897a7c1-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/DH5K6xWP/1897a7c2-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/W4Vtt24D/1897a7c3-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/BHZML4cW/1897a7c4-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/JRMPBHWg/1897a7c5-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/BKGPN0r4/1897a7c6-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/jvqyxjvD/1897a7c7-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/Y4sc6Rk4/1897a7c8-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/8gVpG9mt/1897a7c9-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/rGFW34Cw/1897a7ca-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/3yc2yDr0/1897a7cb-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/nNdpxH6s/1897f5e0-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/9HkMhqcK/1897f5e1-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/HDSKxXbW/1897f5e2-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/ycW7fGGQ/1897f5e3-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+            "https://i.ibb.co.com/VWdHBV6F/18981cf0-5d8d-11f1-9cec-1bb5d2eb1297.webp"
+          ],
+          "type": "comic",
+          "bucket": "data2",
+          "id": "maryoku-zero-no-saikyou-kenja-mahou-riron-o-kiwametara-sekai-saikyou-ni-natte-ita-4"
         }
       ],
       "createdAt": "2026-10-14T13:18:05.231Z",
-      "updatedAt": "2026-10-16T15:51:00.797Z"
+      "updatedAt": "2026-10-16T15:56:38.290Z"
     },
     {
       "title": "Heart Aching",
@@ -5509,6 +5541,38 @@
       "type": "comic",
       "bucket": "data2",
       "id": "maryoku-zero-no-saikyou-kenja-mahou-riron-o-kiwametara-sekai-saikyou-ni-natte-ita-3"
+    },
+    "maryoku-zero-no-saikyou-kenja-mahou-riron-o-kiwametara-sekai-saikyou-ni-natte-ita-4": {
+      "number": 4,
+      "title": "Chapter 2.1",
+      "publishedAt": "2026-10-16T15:51:00.000Z",
+      "thumbnail": "https://i.ibb.co.com/SCQQC5Q/189780b0-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+      "pages": [
+        "https://i.ibb.co.com/SCQQC5Q/189780b0-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/7Nr3nFqS/189780b1-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/GQ6PrYFk/189780b2-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/YTKLyVL0/189780b3-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/PsJTfMtX/1897a7c0-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/bjxhs2Ht/1897a7c1-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/DH5K6xWP/1897a7c2-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/W4Vtt24D/1897a7c3-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/BHZML4cW/1897a7c4-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/JRMPBHWg/1897a7c5-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/BKGPN0r4/1897a7c6-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/jvqyxjvD/1897a7c7-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/Y4sc6Rk4/1897a7c8-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/8gVpG9mt/1897a7c9-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/rGFW34Cw/1897a7ca-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/3yc2yDr0/1897a7cb-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/nNdpxH6s/1897f5e0-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/9HkMhqcK/1897f5e1-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/HDSKxXbW/1897f5e2-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/ycW7fGGQ/1897f5e3-5d8d-11f1-9cec-1bb5d2eb1297.webp",
+        "https://i.ibb.co.com/VWdHBV6F/18981cf0-5d8d-11f1-9cec-1bb5d2eb1297.webp"
+      ],
+      "type": "comic",
+      "bucket": "data2",
+      "id": "maryoku-zero-no-saikyou-kenja-mahou-riron-o-kiwametara-sekai-saikyou-ni-natte-ita-4"
     }
   },
   "announcements": []
