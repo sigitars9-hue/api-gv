@@ -3764,10 +3764,47 @@
           "type": "comic",
           "bucket": "data2",
           "id": "maryoku-zero-no-saikyou-kenja-mahou-riron-o-kiwametara-sekai-saikyou-ni-natte-ita-2"
+        },
+        {
+          "number": 3,
+          "title": "Chapter 1.3",
+          "publishedAt": "2026-10-16T15:40:00.000Z",
+          "thumbnail": "https://i.ibb.co.com/DHV2ZHwL/399407f0-53fd-11f1-a4aa-991c544c9510.webp",
+          "pages": [
+            "https://i.ibb.co.com/DHV2ZHwL/399407f0-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/V0q6Jcwd/399407f1-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/4ndJH4t1/39942f00-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/fVhj0sXN/39942f01-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/Z1Yj2KbC/39942f02-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/DD2mGJqP/39942f03-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/G42ySsjr/39942f04-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/6c7f6bPg/39942f05-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/Nn9s6fHL/39942f06-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/nNvQpk11/39942f07-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/wNv29dth/39945610-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/ZR0cRDnw/39945611-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/1Ys96JXY/39945612-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/Y7WL8XTC/39945613-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/ynPdNLW8/39945614-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/PsfyM02M/39945615-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/7Jygv9Js/39945616-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/Fkq2tzXw/39945617-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/hJV4rqVZ/39947d20-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/tMpy05qn/39947d21-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/8ndTWstT/39947d22-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/svqdhhhL/39947d23-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/5hnCb6gh/39947d24-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/6Jcbk6Vf/39947d25-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/TdZXQzL/39947d26-53fd-11f1-a4aa-991c544c9510.webp",
+            "https://i.ibb.co.com/84KcF5pv/39947d27-53fd-11f1-a4aa-991c544c9510.webp"
+          ],
+          "type": "comic",
+          "bucket": "data2",
+          "id": "maryoku-zero-no-saikyou-kenja-mahou-riron-o-kiwametara-sekai-saikyou-ni-natte-ita-3"
         }
       ],
       "createdAt": "2026-10-14T13:18:05.231Z",
-      "updatedAt": "2026-10-16T13:07:48.426Z"
+      "updatedAt": "2026-10-16T15:51:00.797Z"
     },
     {
       "title": "Heart Aching",
@@ -5435,6 +5472,43 @@
       "type": "comic",
       "bucket": "data2",
       "id": "swordmaster-youngest-son-7"
+    },
+    "maryoku-zero-no-saikyou-kenja-mahou-riron-o-kiwametara-sekai-saikyou-ni-natte-ita-3": {
+      "number": 3,
+      "title": "Chapter 1.3",
+      "publishedAt": "2026-10-16T15:40:00.000Z",
+      "thumbnail": "https://i.ibb.co.com/DHV2ZHwL/399407f0-53fd-11f1-a4aa-991c544c9510.webp",
+      "pages": [
+        "https://i.ibb.co.com/DHV2ZHwL/399407f0-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/V0q6Jcwd/399407f1-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/4ndJH4t1/39942f00-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/fVhj0sXN/39942f01-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/Z1Yj2KbC/39942f02-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/DD2mGJqP/39942f03-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/G42ySsjr/39942f04-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/6c7f6bPg/39942f05-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/Nn9s6fHL/39942f06-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/nNvQpk11/39942f07-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/wNv29dth/39945610-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/ZR0cRDnw/39945611-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/1Ys96JXY/39945612-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/Y7WL8XTC/39945613-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/ynPdNLW8/39945614-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/PsfyM02M/39945615-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/7Jygv9Js/39945616-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/Fkq2tzXw/39945617-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/hJV4rqVZ/39947d20-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/tMpy05qn/39947d21-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/8ndTWstT/39947d22-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/svqdhhhL/39947d23-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/5hnCb6gh/39947d24-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/6Jcbk6Vf/39947d25-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/TdZXQzL/39947d26-53fd-11f1-a4aa-991c544c9510.webp",
+        "https://i.ibb.co.com/84KcF5pv/39947d27-53fd-11f1-a4aa-991c544c9510.webp"
+      ],
+      "type": "comic",
+      "bucket": "data2",
+      "id": "maryoku-zero-no-saikyou-kenja-mahou-riron-o-kiwametara-sekai-saikyou-ni-natte-ita-3"
     }
   },
   "announcements": []
