@@ -3790,9 +3790,45 @@
       "backdrop": "https://i.ibb.co.com/PzF9Qvh2/yfaeb7bfp9jd1.jpg",
       "rating": 9.7,
       "views": 254343,
-      "chapters": [],
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Chapter 1",
+          "publishedAt": "2026-10-16T02:23:00.000Z",
+          "thumbnail": "https://i.ibb.co.com/XrdXKPRf/6-a952ae95403b.jpg",
+          "pages": [
+            "https://i.ibb.co.com/TDcm80mb/1-93d46b7a1234.jpg",
+            "https://i.ibb.co.com/23d889qw/2-5cbdd8cd680d.jpg",
+            "https://i.ibb.co.com/C3bcV8jV/3-9dbe4730d37d.jpg",
+            "https://i.ibb.co.com/bR2pSMjJ/4-ac72fe8ab9fc.jpg",
+            "https://i.ibb.co.com/8Lh1CTGT/5-30e9927346ad.jpg",
+            "https://i.ibb.co.com/XrdXKPRf/6-a952ae95403b.jpg",
+            "https://i.ibb.co.com/jvgC1zy5/7-b35d426b0f3c.jpg",
+            "https://i.ibb.co.com/0R6MQNDx/8-ce3eadc4062c.jpg",
+            "https://i.ibb.co.com/vvPJbHM7/9-49ee1c8cee42.jpg",
+            "https://i.ibb.co.com/F4WMNF1T/10-2557754d3362.jpg",
+            "https://i.ibb.co.com/tT0V31hN/11-81ffcae8b5a0.jpg",
+            "https://i.ibb.co.com/fY3m9PjV/12-a326198efb4c.jpg",
+            "https://i.ibb.co.com/TMgb53dR/13-7afa7b2464c5.jpg",
+            "https://i.ibb.co.com/GQSwC2Hk/14-2581280a91d7.jpg",
+            "https://i.ibb.co.com/KcSMQG47/15-aa7fbbcf6f9d.jpg",
+            "https://i.ibb.co.com/N21mT6fJ/16-30ef465bca2f.jpg",
+            "https://i.ibb.co.com/VcznpNvF/17-756616cf7373.jpg",
+            "https://i.ibb.co.com/6J4cDZvQ/18-09fff050af95.jpg",
+            "https://i.ibb.co.com/35ktjwNs/19-cc71ae520de3.jpg",
+            "https://i.ibb.co.com/cX8LNSzv/20-e1306db01d90.jpg",
+            "https://i.ibb.co.com/3Yh20SZM/21-ffff57b9df75.jpg",
+            "https://i.ibb.co.com/tTQ1p0LX/22-ecee7adf178e.jpg",
+            "https://i.ibb.co.com/VWs7BVxp/23-2ff248b178f8.jpg",
+            "https://i.ibb.co.com/6RqWxnDT/24-ae407bf793ba.jpg"
+          ],
+          "type": "comic",
+          "bucket": "data2",
+          "id": "swordmaster-youngest-son-1"
+        }
+      ],
       "createdAt": "2026-10-16T02:23:03.367Z",
-      "updatedAt": "2026-10-16T02:23:03.367Z"
+      "updatedAt": "2026-10-16T02:23:36.556Z"
     }
   ],
   "chapters": {
@@ -4897,6 +4933,41 @@
       "type": "comic",
       "bucket": "data2",
       "id": "world-extinction-war-11"
+    },
+    "swordmaster-youngest-son-1": {
+      "number": 1,
+      "title": "Chapter 1",
+      "publishedAt": "2026-10-16T02:23:00.000Z",
+      "thumbnail": "https://i.ibb.co.com/XrdXKPRf/6-a952ae95403b.jpg",
+      "pages": [
+        "https://i.ibb.co.com/TDcm80mb/1-93d46b7a1234.jpg",
+        "https://i.ibb.co.com/23d889qw/2-5cbdd8cd680d.jpg",
+        "https://i.ibb.co.com/C3bcV8jV/3-9dbe4730d37d.jpg",
+        "https://i.ibb.co.com/bR2pSMjJ/4-ac72fe8ab9fc.jpg",
+        "https://i.ibb.co.com/8Lh1CTGT/5-30e9927346ad.jpg",
+        "https://i.ibb.co.com/XrdXKPRf/6-a952ae95403b.jpg",
+        "https://i.ibb.co.com/jvgC1zy5/7-b35d426b0f3c.jpg",
+        "https://i.ibb.co.com/0R6MQNDx/8-ce3eadc4062c.jpg",
+        "https://i.ibb.co.com/vvPJbHM7/9-49ee1c8cee42.jpg",
+        "https://i.ibb.co.com/F4WMNF1T/10-2557754d3362.jpg",
+        "https://i.ibb.co.com/tT0V31hN/11-81ffcae8b5a0.jpg",
+        "https://i.ibb.co.com/fY3m9PjV/12-a326198efb4c.jpg",
+        "https://i.ibb.co.com/TMgb53dR/13-7afa7b2464c5.jpg",
+        "https://i.ibb.co.com/GQSwC2Hk/14-2581280a91d7.jpg",
+        "https://i.ibb.co.com/KcSMQG47/15-aa7fbbcf6f9d.jpg",
+        "https://i.ibb.co.com/N21mT6fJ/16-30ef465bca2f.jpg",
+        "https://i.ibb.co.com/VcznpNvF/17-756616cf7373.jpg",
+        "https://i.ibb.co.com/6J4cDZvQ/18-09fff050af95.jpg",
+        "https://i.ibb.co.com/35ktjwNs/19-cc71ae520de3.jpg",
+        "https://i.ibb.co.com/cX8LNSzv/20-e1306db01d90.jpg",
+        "https://i.ibb.co.com/3Yh20SZM/21-ffff57b9df75.jpg",
+        "https://i.ibb.co.com/tTQ1p0LX/22-ecee7adf178e.jpg",
+        "https://i.ibb.co.com/VWs7BVxp/23-2ff248b178f8.jpg",
+        "https://i.ibb.co.com/6RqWxnDT/24-ae407bf793ba.jpg"
+      ],
+      "type": "comic",
+      "bucket": "data2",
+      "id": "swordmaster-youngest-son-1"
     }
   },
   "announcements": []
