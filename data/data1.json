@@ -8554,7 +8554,11 @@
         "Comedy",
         "Drama",
         "Romance",
-        "Slice of Life"
+        "Slice of Life",
+        "Male MC",
+        "Female MC",
+        "Reincarnation",
+        "Super Power"
       ],
       "tags": [],
       "cover": "https://i.ibb.co.com/DcHX4kq/img-68bff938142860-14470754.png",
@@ -9946,7 +9950,7 @@
         }
       ],
       "createdAt": "2025-12-17T17:40:03.316Z",
-      "updatedAt": "2025-12-17T19:23:01.667Z"
+      "updatedAt": "2026-10-16T06:48:13.330Z"
     },
     {
       "title": "HOPE",
