@@ -1907,6 +1907,36 @@
       "type": "comic",
       "bucket": "data3",
       "id": "webtoon-character-na-kang-lim-16"
+    },
+    "webtoon-character-na-kang-lim-17": {
+      "number": 17,
+      "title": "Chapter 17",
+      "publishedAt": "2026-10-17T19:25:00.000Z",
+      "thumbnail": "https://i.ibb.co.com/cK1twjTr/013.jpg",
+      "pages": [
+        "https://i.ibb.co.com/nsj4VwZ1/001.jpg",
+        "https://i.ibb.co.com/XdmD4wx/002.jpg",
+        "https://i.ibb.co.com/0j2NVh9H/003.jpg",
+        "https://i.ibb.co.com/DFsSWZW/004.jpg",
+        "https://i.ibb.co.com/5WcqFmzd/005.jpg",
+        "https://i.ibb.co.com/CR3Kfqz/006.jpg",
+        "https://i.ibb.co.com/C5G0Bp2y/007.jpg",
+        "https://i.ibb.co.com/qLZws8R4/008.jpg",
+        "https://i.ibb.co.com/Rp7yTvYW/009.jpg",
+        "https://i.ibb.co.com/v6TRnvm2/010.jpg",
+        "https://i.ibb.co.com/S4LKwXPw/011.jpg",
+        "https://i.ibb.co.com/SD0dKrgQ/012.jpg",
+        "https://i.ibb.co.com/cK1twjTr/013.jpg",
+        "https://i.ibb.co.com/Tzs8Sbp/014.jpg",
+        "https://i.ibb.co.com/1t2HcBmp/015.jpg",
+        "https://i.ibb.co.com/ksyF2k5N/016.jpg",
+        "https://i.ibb.co.com/v48j8q6m/018.jpg",
+        "https://i.ibb.co.com/5h0gKMvZ/019.jpg",
+        "https://i.ibb.co.com/qY137Ltr/020.jpg"
+      ],
+      "type": "comic",
+      "bucket": "data3",
+      "id": "webtoon-character-na-kang-lim-17"
     }
   },
   "createdAt": "2026-10-13T12:42:54.462Z",
@@ -3951,10 +3981,40 @@
           "type": "comic",
           "bucket": "data3",
           "id": "webtoon-character-na-kang-lim-16"
+        },
+        {
+          "number": 17,
+          "title": "Chapter 17",
+          "publishedAt": "2026-10-17T19:25:00.000Z",
+          "thumbnail": "https://i.ibb.co.com/cK1twjTr/013.jpg",
+          "pages": [
+            "https://i.ibb.co.com/nsj4VwZ1/001.jpg",
+            "https://i.ibb.co.com/XdmD4wx/002.jpg",
+            "https://i.ibb.co.com/0j2NVh9H/003.jpg",
+            "https://i.ibb.co.com/DFsSWZW/004.jpg",
+            "https://i.ibb.co.com/5WcqFmzd/005.jpg",
+            "https://i.ibb.co.com/CR3Kfqz/006.jpg",
+            "https://i.ibb.co.com/C5G0Bp2y/007.jpg",
+            "https://i.ibb.co.com/qLZws8R4/008.jpg",
+            "https://i.ibb.co.com/Rp7yTvYW/009.jpg",
+            "https://i.ibb.co.com/v6TRnvm2/010.jpg",
+            "https://i.ibb.co.com/S4LKwXPw/011.jpg",
+            "https://i.ibb.co.com/SD0dKrgQ/012.jpg",
+            "https://i.ibb.co.com/cK1twjTr/013.jpg",
+            "https://i.ibb.co.com/Tzs8Sbp/014.jpg",
+            "https://i.ibb.co.com/1t2HcBmp/015.jpg",
+            "https://i.ibb.co.com/ksyF2k5N/016.jpg",
+            "https://i.ibb.co.com/v48j8q6m/018.jpg",
+            "https://i.ibb.co.com/5h0gKMvZ/019.jpg",
+            "https://i.ibb.co.com/qY137Ltr/020.jpg"
+          ],
+          "type": "comic",
+          "bucket": "data3",
+          "id": "webtoon-character-na-kang-lim-17"
         }
       ],
       "createdAt": "2026-10-17T16:53:38.148Z",
-      "updatedAt": "2026-10-17T18:52:28.387Z"
+      "updatedAt": "2026-10-17T19:26:54.156Z"
     }
   ],
   "announcements": []
