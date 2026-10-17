@@ -1819,6 +1819,35 @@
       "type": "comic",
       "bucket": "data3",
       "id": "webtoon-character-na-kang-lim-13"
+    },
+    "webtoon-character-na-kang-lim-14": {
+      "number": 14,
+      "title": "Chapter 14",
+      "publishedAt": "2026-10-17T18:48:00.000Z",
+      "thumbnail": "https://i.ibb.co.com/gL9s355c/webtoon-character-na-kang-lim-chapter-14-010.jpg",
+      "pages": [
+        "https://i.ibb.co.com/67dMgFkK/webtoon-character-na-kang-lim-chapter-14-000.jpg",
+        "https://i.ibb.co.com/qFhqrRN1/webtoon-character-na-kang-lim-chapter-14-001.jpg",
+        "https://i.ibb.co.com/67CJ3kRP/webtoon-character-na-kang-lim-chapter-14-002.jpg",
+        "https://i.ibb.co.com/r9C80Sd/webtoon-character-na-kang-lim-chapter-14-003.jpg",
+        "https://i.ibb.co.com/PvHpGW6g/webtoon-character-na-kang-lim-chapter-14-004.jpg",
+        "https://i.ibb.co.com/tMg73tg7/webtoon-character-na-kang-lim-chapter-14-005.jpg",
+        "https://i.ibb.co.com/m5HZt0Jf/webtoon-character-na-kang-lim-chapter-14-006.jpg",
+        "https://i.ibb.co.com/Kp2Yk6Br/webtoon-character-na-kang-lim-chapter-14-007.jpg",
+        "https://i.ibb.co.com/q376R9Sz/webtoon-character-na-kang-lim-chapter-14-008.jpg",
+        "https://i.ibb.co.com/20fpZQx9/webtoon-character-na-kang-lim-chapter-14-009.jpg",
+        "https://i.ibb.co.com/gL9s355c/webtoon-character-na-kang-lim-chapter-14-010.jpg",
+        "https://i.ibb.co.com/0jP17f3K/webtoon-character-na-kang-lim-chapter-14-011.jpg",
+        "https://i.ibb.co.com/W4wStH95/webtoon-character-na-kang-lim-chapter-14-012.jpg",
+        "https://i.ibb.co.com/BV6nY6C2/webtoon-character-na-kang-lim-chapter-14-013.jpg",
+        "https://i.ibb.co.com/vxtfF2DH/webtoon-character-na-kang-lim-chapter-14-014.jpg",
+        "https://i.ibb.co.com/99YydM4n/webtoon-character-na-kang-lim-chapter-14-016.jpg",
+        "https://i.ibb.co.com/8DSBjBpb/webtoon-character-na-kang-lim-chapter-14-017.jpg",
+        "https://i.ibb.co.com/fGMg15Cq/webtoon-character-na-kang-lim-chapter-14-018.jpg"
+      ],
+      "type": "comic",
+      "bucket": "data3",
+      "id": "webtoon-character-na-kang-lim-14"
     }
   },
   "createdAt": "2026-10-13T12:42:54.462Z",
@@ -3775,10 +3804,39 @@
           "type": "comic",
           "bucket": "data3",
           "id": "webtoon-character-na-kang-lim-13"
+        },
+        {
+          "number": 14,
+          "title": "Chapter 14",
+          "publishedAt": "2026-10-17T18:48:00.000Z",
+          "thumbnail": "https://i.ibb.co.com/gL9s355c/webtoon-character-na-kang-lim-chapter-14-010.jpg",
+          "pages": [
+            "https://i.ibb.co.com/67dMgFkK/webtoon-character-na-kang-lim-chapter-14-000.jpg",
+            "https://i.ibb.co.com/qFhqrRN1/webtoon-character-na-kang-lim-chapter-14-001.jpg",
+            "https://i.ibb.co.com/67CJ3kRP/webtoon-character-na-kang-lim-chapter-14-002.jpg",
+            "https://i.ibb.co.com/r9C80Sd/webtoon-character-na-kang-lim-chapter-14-003.jpg",
+            "https://i.ibb.co.com/PvHpGW6g/webtoon-character-na-kang-lim-chapter-14-004.jpg",
+            "https://i.ibb.co.com/tMg73tg7/webtoon-character-na-kang-lim-chapter-14-005.jpg",
+            "https://i.ibb.co.com/m5HZt0Jf/webtoon-character-na-kang-lim-chapter-14-006.jpg",
+            "https://i.ibb.co.com/Kp2Yk6Br/webtoon-character-na-kang-lim-chapter-14-007.jpg",
+            "https://i.ibb.co.com/q376R9Sz/webtoon-character-na-kang-lim-chapter-14-008.jpg",
+            "https://i.ibb.co.com/20fpZQx9/webtoon-character-na-kang-lim-chapter-14-009.jpg",
+            "https://i.ibb.co.com/gL9s355c/webtoon-character-na-kang-lim-chapter-14-010.jpg",
+            "https://i.ibb.co.com/0jP17f3K/webtoon-character-na-kang-lim-chapter-14-011.jpg",
+            "https://i.ibb.co.com/W4wStH95/webtoon-character-na-kang-lim-chapter-14-012.jpg",
+            "https://i.ibb.co.com/BV6nY6C2/webtoon-character-na-kang-lim-chapter-14-013.jpg",
+            "https://i.ibb.co.com/vxtfF2DH/webtoon-character-na-kang-lim-chapter-14-014.jpg",
+            "https://i.ibb.co.com/99YydM4n/webtoon-character-na-kang-lim-chapter-14-016.jpg",
+            "https://i.ibb.co.com/8DSBjBpb/webtoon-character-na-kang-lim-chapter-14-017.jpg",
+            "https://i.ibb.co.com/fGMg15Cq/webtoon-character-na-kang-lim-chapter-14-018.jpg"
+          ],
+          "type": "comic",
+          "bucket": "data3",
+          "id": "webtoon-character-na-kang-lim-14"
         }
       ],
       "createdAt": "2026-10-17T16:53:38.148Z",
-      "updatedAt": "2026-10-17T18:48:14.177Z"
+      "updatedAt": "2026-10-17T18:49:58.063Z"
     }
   ],
   "announcements": []
