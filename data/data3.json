@@ -2928,6 +2928,34 @@
       "type": "comic",
       "bucket": "data3",
       "id": "webtoon-character-na-kang-lim-41"
+    },
+    "webtoon-character-na-kang-lim-42": {
+      "number": 42,
+      "title": "Chapter 42",
+      "publishedAt": "2026-10-18T23:57:00.000Z",
+      "thumbnail": "https://i.ibb.co.com/S4Fz6NsY/010.jpg",
+      "pages": [
+        "https://i.ibb.co.com/b5SDBWTF/001.jpg",
+        "https://i.ibb.co.com/JR0KTBZ0/002.jpg",
+        "https://i.ibb.co.com/fYbwGM2t/003.jpg",
+        "https://i.ibb.co.com/T9HP3FV/004.jpg",
+        "https://i.ibb.co.com/gF3q8MyX/005.jpg",
+        "https://i.ibb.co.com/M5VByLqW/006.jpg",
+        "https://i.ibb.co.com/5XvHR08q/007.jpg",
+        "https://i.ibb.co.com/QF8ZJJ7H/008.jpg",
+        "https://i.ibb.co.com/5gmDtZrn/009.jpg",
+        "https://i.ibb.co.com/S4Fz6NsY/010.jpg",
+        "https://i.ibb.co.com/1JzXCcVd/011.jpg",
+        "https://i.ibb.co.com/hxqTbrKh/012.jpg",
+        "https://i.ibb.co.com/prn6crqT/013.jpg",
+        "https://i.ibb.co.com/nNSCtgp2/014.jpg",
+        "https://i.ibb.co.com/Wvmx3zyZ/015.jpg",
+        "https://i.ibb.co.com/PvC5WszN/016.jpg",
+        "https://i.ibb.co.com/7N0PTRCZ/017.jpg"
+      ],
+      "type": "comic",
+      "bucket": "data3",
+      "id": "webtoon-character-na-kang-lim-42"
     }
   },
   "createdAt": "2026-10-13T12:42:54.462Z",
@@ -5993,10 +6021,38 @@
           "type": "comic",
           "bucket": "data3",
           "id": "webtoon-character-na-kang-lim-41"
+        },
+        {
+          "number": 42,
+          "title": "Chapter 42",
+          "publishedAt": "2026-10-18T23:57:00.000Z",
+          "thumbnail": "https://i.ibb.co.com/S4Fz6NsY/010.jpg",
+          "pages": [
+            "https://i.ibb.co.com/b5SDBWTF/001.jpg",
+            "https://i.ibb.co.com/JR0KTBZ0/002.jpg",
+            "https://i.ibb.co.com/fYbwGM2t/003.jpg",
+            "https://i.ibb.co.com/T9HP3FV/004.jpg",
+            "https://i.ibb.co.com/gF3q8MyX/005.jpg",
+            "https://i.ibb.co.com/M5VByLqW/006.jpg",
+            "https://i.ibb.co.com/5XvHR08q/007.jpg",
+            "https://i.ibb.co.com/QF8ZJJ7H/008.jpg",
+            "https://i.ibb.co.com/5gmDtZrn/009.jpg",
+            "https://i.ibb.co.com/S4Fz6NsY/010.jpg",
+            "https://i.ibb.co.com/1JzXCcVd/011.jpg",
+            "https://i.ibb.co.com/hxqTbrKh/012.jpg",
+            "https://i.ibb.co.com/prn6crqT/013.jpg",
+            "https://i.ibb.co.com/nNSCtgp2/014.jpg",
+            "https://i.ibb.co.com/Wvmx3zyZ/015.jpg",
+            "https://i.ibb.co.com/PvC5WszN/016.jpg",
+            "https://i.ibb.co.com/7N0PTRCZ/017.jpg"
+          ],
+          "type": "comic",
+          "bucket": "data3",
+          "id": "webtoon-character-na-kang-lim-42"
         }
       ],
       "createdAt": "2026-10-17T16:53:38.148Z",
-      "updatedAt": "2026-10-18T23:42:37.605Z"
+      "updatedAt": "2026-10-18T23:57:56.833Z"
     }
   ],
   "announcements": []
