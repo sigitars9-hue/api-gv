@@ -4587,10 +4587,35 @@
           "type": "comic",
           "bucket": "data2",
           "id": "swordmaster-youngest-son-22"
+        },
+        {
+          "number": 24,
+          "title": "Chapter 24",
+          "publishedAt": "2026-10-19T07:00:00.000Z",
+          "thumbnail": "https://i.ibb.co.com/TxVtTKR8/image.png",
+          "pages": [
+            "https://i.ibb.co.com/fGP4zZBn/1-280e86a33c94.jpg",
+            "https://i.ibb.co.com/Qjv7SY78/2-833861d4eed3.jpg",
+            "https://i.ibb.co.com/tp17KxLT/3-6c689132fe45.jpg",
+            "https://i.ibb.co.com/1tNpn4w6/4-d0344671c179.jpg",
+            "https://i.ibb.co.com/LdwjK2M9/5-b3dceb5ba013.jpg",
+            "https://i.ibb.co.com/BKHS94c7/6-67ace07b1b3c.jpg",
+            "https://i.ibb.co.com/ns1xGK53/7-7200432f16dc.jpg",
+            "https://i.ibb.co.com/VYXMGBbW/8-b1bbc10c1c38.jpg",
+            "https://i.ibb.co.com/q3qpn962/9-3dc2ec9e07b2.jpg",
+            "https://i.ibb.co.com/6cVS78Br/10-6b42bc3435d8.jpg",
+            "https://i.ibb.co.com/JWR30Vrz/11-a0e1a4715af5.jpg",
+            "https://i.ibb.co.com/fGTczQbG/12-02f6e4b0015d.jpg",
+            "https://i.ibb.co.com/zHTzR55f/13-d234266f4868.jpg",
+            "https://i.ibb.co.com/TMRQVFJ7/16-df503fbe9857.jpg"
+          ],
+          "type": "comic",
+          "bucket": "data2",
+          "id": "swordmaster-youngest-son-24"
         }
       ],
       "createdAt": "2026-10-16T02:23:03.367Z",
-      "updatedAt": "2026-10-19T07:00:46.839Z"
+      "updatedAt": "2026-10-19T07:01:26.383Z"
     }
   ],
   "chapters": {
@@ -6484,6 +6509,31 @@
       "type": "comic",
       "bucket": "data2",
       "id": "swordmaster-youngest-son-22"
+    },
+    "swordmaster-youngest-son-24": {
+      "number": 24,
+      "title": "Chapter 24",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "thumbnail": "https://i.ibb.co.com/TxVtTKR8/image.png",
+      "pages": [
+        "https://i.ibb.co.com/fGP4zZBn/1-280e86a33c94.jpg",
+        "https://i.ibb.co.com/Qjv7SY78/2-833861d4eed3.jpg",
+        "https://i.ibb.co.com/tp17KxLT/3-6c689132fe45.jpg",
+        "https://i.ibb.co.com/1tNpn4w6/4-d0344671c179.jpg",
+        "https://i.ibb.co.com/LdwjK2M9/5-b3dceb5ba013.jpg",
+        "https://i.ibb.co.com/BKHS94c7/6-67ace07b1b3c.jpg",
+        "https://i.ibb.co.com/ns1xGK53/7-7200432f16dc.jpg",
+        "https://i.ibb.co.com/VYXMGBbW/8-b1bbc10c1c38.jpg",
+        "https://i.ibb.co.com/q3qpn962/9-3dc2ec9e07b2.jpg",
+        "https://i.ibb.co.com/6cVS78Br/10-6b42bc3435d8.jpg",
+        "https://i.ibb.co.com/JWR30Vrz/11-a0e1a4715af5.jpg",
+        "https://i.ibb.co.com/fGTczQbG/12-02f6e4b0015d.jpg",
+        "https://i.ibb.co.com/zHTzR55f/13-d234266f4868.jpg",
+        "https://i.ibb.co.com/TMRQVFJ7/16-df503fbe9857.jpg"
+      ],
+      "type": "comic",
+      "bucket": "data2",
+      "id": "swordmaster-youngest-son-24"
     }
   },
   "announcements": []
