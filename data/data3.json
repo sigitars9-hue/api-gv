@@ -3422,6 +3422,42 @@
       "type": "comic",
       "bucket": "data3",
       "id": "webtoon-character-na-kang-lim-56"
+    },
+    "webtoon-character-na-kang-lim-57": {
+      "number": 57,
+      "title": "Chapter 57",
+      "publishedAt": "2026-10-24T16:15:00.000Z",
+      "thumbnail": "https://i.ibb.co.com/RpphT5R8/18.jpg",
+      "pages": [
+        "https://i.ibb.co.com/tM6m1PMf/01.jpg",
+        "https://i.ibb.co.com/Xf14bnCk/02.jpg",
+        "https://i.ibb.co.com/GfZk5mLn/03.jpg",
+        "https://i.ibb.co.com/20VdF7CH/04.jpg",
+        "https://i.ibb.co.com/20P1TGQQ/05.jpg",
+        "https://i.ibb.co.com/mCJQxxg7/06.jpg",
+        "https://i.ibb.co.com/JW2sg6Sx/07.jpg",
+        "https://i.ibb.co.com/mF04zxgB/08.jpg",
+        "https://i.ibb.co.com/4Rk4mLmR/09.jpg",
+        "https://i.ibb.co.com/gM6f0jBf/10.jpg",
+        "https://i.ibb.co.com/0pNWm9xL/11.jpg",
+        "https://i.ibb.co.com/SX4NRdgB/12.jpg",
+        "https://i.ibb.co.com/VYLDKBTN/13.jpg",
+        "https://i.ibb.co.com/fzHgmPf0/14.jpg",
+        "https://i.ibb.co.com/N67f0xnv/15.jpg",
+        "https://i.ibb.co.com/DHVjMVLS/16.jpg",
+        "https://i.ibb.co.com/TM1vRJgS/17.jpg",
+        "https://i.ibb.co.com/RpphT5R8/18.jpg",
+        "https://i.ibb.co.com/cSYKjRhY/19.jpg",
+        "https://i.ibb.co.com/KjkbzkmR/20.jpg",
+        "https://i.ibb.co.com/nsJSbk5Z/21.jpg",
+        "https://i.ibb.co.com/LzPBvZwJ/22.jpg",
+        "https://i.ibb.co.com/Y4cQR549/23.jpg",
+        "https://i.ibb.co.com/rKt2KX3N/24.jpg",
+        "https://i.ibb.co.com/gMLvF4d4/25.jpg"
+      ],
+      "type": "comic",
+      "bucket": "data3",
+      "id": "webtoon-character-na-kang-lim-57"
     }
   },
   "createdAt": "2026-10-13T12:42:54.462Z",
@@ -6981,10 +7017,46 @@
           "type": "comic",
           "bucket": "data3",
           "id": "webtoon-character-na-kang-lim-56"
+        },
+        {
+          "number": 57,
+          "title": "Chapter 57",
+          "publishedAt": "2026-10-24T16:15:00.000Z",
+          "thumbnail": "https://i.ibb.co.com/RpphT5R8/18.jpg",
+          "pages": [
+            "https://i.ibb.co.com/tM6m1PMf/01.jpg",
+            "https://i.ibb.co.com/Xf14bnCk/02.jpg",
+            "https://i.ibb.co.com/GfZk5mLn/03.jpg",
+            "https://i.ibb.co.com/20VdF7CH/04.jpg",
+            "https://i.ibb.co.com/20P1TGQQ/05.jpg",
+            "https://i.ibb.co.com/mCJQxxg7/06.jpg",
+            "https://i.ibb.co.com/JW2sg6Sx/07.jpg",
+            "https://i.ibb.co.com/mF04zxgB/08.jpg",
+            "https://i.ibb.co.com/4Rk4mLmR/09.jpg",
+            "https://i.ibb.co.com/gM6f0jBf/10.jpg",
+            "https://i.ibb.co.com/0pNWm9xL/11.jpg",
+            "https://i.ibb.co.com/SX4NRdgB/12.jpg",
+            "https://i.ibb.co.com/VYLDKBTN/13.jpg",
+            "https://i.ibb.co.com/fzHgmPf0/14.jpg",
+            "https://i.ibb.co.com/N67f0xnv/15.jpg",
+            "https://i.ibb.co.com/DHVjMVLS/16.jpg",
+            "https://i.ibb.co.com/TM1vRJgS/17.jpg",
+            "https://i.ibb.co.com/RpphT5R8/18.jpg",
+            "https://i.ibb.co.com/cSYKjRhY/19.jpg",
+            "https://i.ibb.co.com/KjkbzkmR/20.jpg",
+            "https://i.ibb.co.com/nsJSbk5Z/21.jpg",
+            "https://i.ibb.co.com/LzPBvZwJ/22.jpg",
+            "https://i.ibb.co.com/Y4cQR549/23.jpg",
+            "https://i.ibb.co.com/rKt2KX3N/24.jpg",
+            "https://i.ibb.co.com/gMLvF4d4/25.jpg"
+          ],
+          "type": "comic",
+          "bucket": "data3",
+          "id": "webtoon-character-na-kang-lim-57"
         }
       ],
       "createdAt": "2026-10-17T16:53:38.148Z",
-      "updatedAt": "2026-10-24T16:15:17.998Z"
+      "updatedAt": "2026-10-24T16:16:10.151Z"
     }
   ],
   "announcements": []
