@@ -3908,6 +3908,35 @@
       "type": "comic",
       "bucket": "data3",
       "id": "webtoon-character-na-kang-lim-69"
+    },
+    "webtoon-character-na-kang-lim-70": {
+      "number": 70,
+      "title": "Chapter 70",
+      "publishedAt": "2026-10-25T01:41:00.000Z",
+      "thumbnail": "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/16.komikstation.org.jpg",
+      "pages": [
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/01.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/02.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/03.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/04.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/05.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/06.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/07.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/08.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/09.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/10.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/11.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/12.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/13.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/14.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/15.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/16.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/17.komikstation.org.jpg",
+        "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/18.komikstation.org.jpg"
+      ],
+      "type": "comic",
+      "bucket": "data3",
+      "id": "webtoon-character-na-kang-lim-70"
     }
   },
   "createdAt": "2026-10-13T12:42:54.462Z",
@@ -7953,10 +7982,39 @@
           "type": "comic",
           "bucket": "data3",
           "id": "webtoon-character-na-kang-lim-69"
+        },
+        {
+          "number": 70,
+          "title": "Chapter 70",
+          "publishedAt": "2026-10-25T01:41:00.000Z",
+          "thumbnail": "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/16.komikstation.org.jpg",
+          "pages": [
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/01.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/02.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/03.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/04.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/05.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/06.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/07.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/08.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/09.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/10.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/11.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/12.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/13.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/14.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/15.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/16.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/17.komikstation.org.jpg",
+            "https://comicversedata.my.id/Kang%20Lim/Chapter%2070/18.komikstation.org.jpg"
+          ],
+          "type": "comic",
+          "bucket": "data3",
+          "id": "webtoon-character-na-kang-lim-70"
         }
       ],
       "createdAt": "2026-10-17T16:53:38.148Z",
-      "updatedAt": "2026-10-25T01:41:29.849Z"
+      "updatedAt": "2026-10-25T01:44:52.582Z"
     }
   ],
   "announcements": []
