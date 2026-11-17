@@ -4864,10 +4864,34 @@
           "type": "comic",
           "bucket": "data2",
           "id": "swordmaster-youngest-son-28"
+        },
+        {
+          "number": 29,
+          "title": "Chapter 29",
+          "publishedAt": "2026-11-17T00:59:00.000Z",
+          "thumbnail": "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/014-5ffy20.png",
+          "pages": [
+            "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/001-ct5dyq.jpg",
+            "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/002-8hixzr.jpg",
+            "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/003-nu3z3t.jpg",
+            "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/004-gul5k7.jpg",
+            "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/005-dvkj9k.jpg",
+            "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/006-xkqvva.jpg",
+            "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/007-cm5fc4.jpg",
+            "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/008-am7ajk.jpg",
+            "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/009-x4uorn.jpg",
+            "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/010-sqvzep.jpg",
+            "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/011-2c3bkh.jpg",
+            "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/012-q75v1d.jpg",
+            "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/013-0gnjvj.jpg"
+          ],
+          "type": "comic",
+          "bucket": "data2",
+          "id": "swordmaster-youngest-son-29"
         }
       ],
       "createdAt": "2026-10-16T02:23:03.367Z",
-      "updatedAt": "2026-10-29T01:51:00.447Z"
+      "updatedAt": "2026-11-17T01:39:26.394Z"
     }
   ],
   "chapters": {
@@ -7065,6 +7089,30 @@
       "type": "comic",
       "bucket": "data2",
       "id": "swordmaster-youngest-son-28"
+    },
+    "swordmaster-youngest-son-29": {
+      "number": 29,
+      "title": "Chapter 29",
+      "publishedAt": "2026-11-17T00:59:00.000Z",
+      "thumbnail": "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/014-5ffy20.png",
+      "pages": [
+        "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/001-ct5dyq.jpg",
+        "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/002-8hixzr.jpg",
+        "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/003-nu3z3t.jpg",
+        "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/004-gul5k7.jpg",
+        "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/005-dvkj9k.jpg",
+        "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/006-xkqvva.jpg",
+        "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/007-cm5fc4.jpg",
+        "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/008-am7ajk.jpg",
+        "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/009-x4uorn.jpg",
+        "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/010-sqvzep.jpg",
+        "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/011-2c3bkh.jpg",
+        "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/012-q75v1d.jpg",
+        "https://comicversedata.my.id/chapters/swordmaster-youngest-son/29/013-0gnjvj.jpg"
+      ],
+      "type": "comic",
+      "bucket": "data2",
+      "id": "swordmaster-youngest-son-29"
     }
   },
   "announcements": []
