@@ -3760,10 +3760,46 @@
           "type": "comic",
           "bucket": "data2",
           "id": "world-extinction-war-15"
+        },
+        {
+          "number": 16,
+          "title": "Chapter 16",
+          "publishedAt": "2026-11-17T01:35:00.000Z",
+          "thumbnail": "https://comicversedata.my.id/world-extinction-war-chapter-16/21.komikstation.org.jpg",
+          "pages": [
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/01.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/02.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/03.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/04.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/05.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/06.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/07.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/08.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/09.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/10.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/11.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/12.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/13.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/14.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/15.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/16.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/17.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/18.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/19.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/20.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/21.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/22.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/23.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/24.komikstation.org.jpg",
+            "https://comicversedata.my.id/world-extinction-war-chapter-16/25.komikstation.org.jpg"
+          ],
+          "type": "comic",
+          "bucket": "data2",
+          "id": "world-extinction-war-16"
         }
       ],
       "createdAt": "2026-10-13T14:18:09.206Z",
-      "updatedAt": "2026-10-29T01:50:32.300Z"
+      "updatedAt": "2026-11-17T01:45:06.908Z"
     },
     {
       "title": "I Married The Dragon I Killed",
@@ -7113,6 +7149,42 @@
       "type": "comic",
       "bucket": "data2",
       "id": "swordmaster-youngest-son-29"
+    },
+    "world-extinction-war-16": {
+      "number": 16,
+      "title": "Chapter 16",
+      "publishedAt": "2026-11-17T01:35:00.000Z",
+      "thumbnail": "https://comicversedata.my.id/world-extinction-war-chapter-16/21.komikstation.org.jpg",
+      "pages": [
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/01.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/02.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/03.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/04.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/05.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/06.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/07.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/08.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/09.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/10.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/11.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/12.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/13.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/14.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/15.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/16.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/17.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/18.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/19.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/20.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/21.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/22.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/23.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/24.komikstation.org.jpg",
+        "https://comicversedata.my.id/world-extinction-war-chapter-16/25.komikstation.org.jpg"
+      ],
+      "type": "comic",
+      "bucket": "data2",
+      "id": "world-extinction-war-16"
     }
   },
   "announcements": []
